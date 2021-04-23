@@ -1,0 +1,2484 @@
+TY  - JOUR
+T1  - Evaluation and comparison of different machine-learning methods to integrate sparse process data into a spatial model in geometallurgy
+AU  - Lishchuk, Viktor
+AU  - Lund, Cecilia
+AU  - Ghorbani, Yousef
+JO  - Minerals Engineering
+VL  - 134
+SP  - 156
+EP  - 165
+PY  - 2019
+DA  - 2019/04/01/
+SN  - 0892-6875
+DO  - https://doi.org/10.1016/j.mineng.2019.01.032
+UR  - http://www.sciencedirect.com/science/article/pii/S0892687519300470
+KW  - Data integration
+KW  - Spatial model
+KW  - WLIMS
+KW  - Davis tube
+KW  - Iron ore
+KW  - Machine-learning
+KW  - Geometallurgy
+AB  - A spatial model for process properties allows for improved production planning in mining by considering the process variability of the deposit. Hitherto, machine-learning modelling methods have been underutilised for spatial modelling in geometallurgy. The goal of this project is to find an efficient way to integrate process properties (iron recovery and mass pull of the Davis tube, iron recovery and mass pull of the wet low intensity magnetic separation, liberation of iron oxides, and P80) for an iron ore case study into a spatial model using machine-learning methods. The modelling was done in two steps. First, the process properties were deployed into a geological database by building non-spatial process models. Second, the process properties estimated in the geological database were extracted together with only their coordinates (x, y, z) and iron grades and spatial process models were built. Modelling methods were evaluated and compared in terms of relative standard deviation (RSD). The lower RSD for decision tree methods suggests that those methods may be preferential when modelling non-linear process properties.
+ER  - 
+
+TY  - JOUR
+T1  - A new approach to integrating patient-generated data with expert knowledge for personalized goal setting: A pilot study
+AU  - Burgermaster, Marissa
+AU  - Son, Jung H.
+AU  - Davidson, Patricia G.
+AU  - Smaldone, Arlene M.
+AU  - Kuperman, Gilad
+AU  - Feller, Daniel J.
+AU  - Burt, Katherine Gardner
+AU  - Levine, Matthew E.
+AU  - Albers, David J.
+AU  - Weng, Chunhua
+AU  - Mamykina, Lena
+JO  - International Journal of Medical Informatics
+VL  - 139
+SP  - 104158
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2020.104158
+UR  - http://www.sciencedirect.com/science/article/pii/S138650561931216X
+KW  - Patient-generated health data
+KW  - Knowledge representation
+KW  - Expert system
+KW  - Suggestion system
+KW  - Personalized nutrition
+AB  - Introduction
+Self-monitoring technologies produce patient-generated data that could be leveraged to personalize nutritional goal setting to improve population health; however, most computational approaches are limited when applied to individual-level personalization with sparse and irregular self-monitoring data. We applied informatics methods from expert suggestion systems to a challenging clinical problem: generating personalized nutrition goals from patient-generated diet and blood glucose data.
+Materials and methods
+We applied qualitative process coding and decision tree modeling to understand how registered dietitians translate patient-generated data into recommendations for dietary self-management of diabetes (i.e., knowledge model). We encoded this process in a set of functions that take diet and blood glucose data as an input and output diet recommendations (i.e., inference engine). Dietitians assessed face validity. Using four patient datasets, we compared our inference engine’s output to clinical narratives and gold standards developed by expert clinicians.
+Results
+To dietitians, the knowledge model represented how recommendations from patient data are made. Inference engine recommendations were 63 % consistent with the gold standard (range = 42 %–75 %) and 74 % consistent with narrative clinical observations (range = 63 %–83 %).
+Discussion
+Qualitative modeling and automating how dietitians reason over patient data resulted in a knowledge model representing clinical knowledge. However, our knowledge model was less consistent with gold standard than narrative clinical recommendations, raising questions about how best to evaluate approaches that integrate patient-generated data with expert knowledge.
+Conclusion
+New informatics approaches that integrate data-driven methods with expert decision making for personalized goal setting, such as the knowledge base and inference engine presented here, demonstrate the potential to extend the reach of patient-generated data by synthesizing it with clinical knowledge. However, important questions remain about the strengths and weaknesses of computer algorithms developed to discern signal from patient-generated data compared to human experts.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of proteomics and metabolomics data of early and middle season Hass avocados under heat treatment
+AU  - Gavicho Uarrota, Virgílio
+AU  - Fuentealba, Claudia
+AU  - Hernández, Ignacia
+AU  - Defilippi-Bruzzone, Bruno
+AU  - Meneses, Claudio
+AU  - Campos-Vargas, Reinaldo
+AU  - Lurie, Susan
+AU  - Hertog, Maarten
+AU  - Carpentier, Sebastien
+AU  - Poblete-Echeverría, Carlos
+AU  - Pedreschi, Romina
+JO  - Food Chemistry
+VL  - 289
+SP  - 512
+EP  - 521
+PY  - 2019
+DA  - 2019/08/15/
+SN  - 0308-8146
+DO  - https://doi.org/10.1016/j.foodchem.2019.03.090
+UR  - http://www.sciencedirect.com/science/article/pii/S0308814619305667
+KW  - 
+KW  - Heterogeneity
+KW  - Gel-free proteomics
+KW  - GC-MS metabolomics
+AB  - Ripening heterogeneity of Hass avocados results in inconsistent quality fruit delivered to the triggered and ready to eat markets. This research aimed to understand the effect of a heat shock (HS) prior to controlled atmosphere (CA) storage on the reduction of ripening heterogeneity. HS prior to CA storage reduces more drastically the ripening heterogeneity in middle season fruit. Via correlation network analysis we show the different metabolomics networks between HS and CA. High throughput proteomics revealed 135 differentially expressed proteins unique to middle season fruit triggered by HS. Further integration of metabolomics and proteomics data revealed that HS reduced the glycolytic throughput and induced protein degradation to deliver energy for the alternative ripening pathways. l-isoleucine, l-valine, l-aspartic and ubiquitin carboxyl-terminal hydrolase involved in protein degradation were positively correlated to HS samples. Our study provides new insights into the effectiveness of HS in synchronizing ripening of Hass avocados.
+ER  - 
+
+TY  - JOUR
+T1  - Tracking iron-rich rocks beneath Cenozoic tablelands: An integration of geological, airborne geophysical and remote sensing data from northern Minas Gerais State, SE Brazil
+AU  - Voll, Eliane
+AU  - Silva, Adalene Moreira
+AU  - Pedrosa-Soares, Antonio Carlos
+JO  - Journal of South American Earth Sciences
+VL  - 101
+SP  - 102604
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0895-9811
+DO  - https://doi.org/10.1016/j.jsames.2020.102604
+UR  - http://www.sciencedirect.com/science/article/pii/S0895981120301176
+KW  - Iron formation
+KW  - Glacial ironstone
+KW  - Spatial model
+KW  - Fuzzy logic
+KW  - Macaúbas Group
+AB  - Integration of multisource data has been successfully used in geological mapping and mineral exploration projects around the world. In areas covered by extensive regolith, colluvial and/or alluvial deposits, with scarce rock outcrops, the application of airborne geophysics and remote sensing products has become a key tool to unravel the geological framework and lithological units. The integration of all those data files requires the use of geographic information systems (GIS) and spatial analysis techniques. More than 87,200 km of linear-collected airborne geophysics data have been acquired by government companies to subside mineral prospecting and geological mapping in northern Minas Gerais State, SE Brazil. Together, geomorphological, geological and geophysical data outline distinct domains on the studied region. The eastern domain shows large tablelands (plateaus) sustained by metadiamictite-quartzite-rich units of the Neoproterozoic Macaúbas Group and related glaciogenic iron deposits, like those of the Nova Aurora Formation, comprising hematite- and/or magnetite-rich metadiamictites with 10–60 wt% Fe. However, on tablelands, the known Neoproterozoic iron deposits are largely hidden beneath Cenozoic covers, although there are scattered outcrops of iron-rich rocks well-preserved from lateritization, a weathering process that can reach dozens of meters deep in the region. Applying Fuzzy logic methodology, our thematic maps provide great progress to define lithological units and structural trends, supporting new guides to track iron-rich rocks. The favorability maps allow us to suggest new targets, and a prospective model to trace locations and structural trends of iron-anomalous rock units. The regional model shows scattered favorable areas with few high-density concentrations of probable iron-rich rocks or even iron ore deposits. Magnetic data images disclose the main occurrences of iron-rich rocks, although lacking resolution for more specific studies. Although gammaspectrometry and Landsat 8 data only reflect responses from surface materials, they may reduce information ambiguity after integrated with magnetic data on areas covered by laterites richer in iron. Our final integrated models constrain the most favorable areas for the occurrence of iron-rich rocks, even in the large tableland domains.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing multisensory integration and estimating speed of processing with the dual-presentation timing task: Model and data
+AU  - García-Pérez, Miguel A.
+AU  - Alcalá-Quintana, Rocío
+JO  - Journal of Mathematical Psychology
+VL  - 96
+SP  - 102351
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0022-2496
+DO  - https://doi.org/10.1016/j.jmp.2020.102351
+UR  - http://www.sciencedirect.com/science/article/pii/S0022249620300304
+KW  - Synchrony judgment
+KW  - Temporal-order judgment
+KW  - Point of subjective simultaneity
+KW  - Order effects
+KW  - Single-presentation task
+KW  - Dual-presentation task
+AB  - Our ability to detect temporal asynchrony is sometimes an obstacle to multisensory integration. A seamless multisensory experience occurs when the temporal misalignment of two signals is within the allowance for subjective synchrony, referred to as the temporal window of integration (TWI). The TWI is most commonly measured with the temporal-order judgment task or the synchrony judgment task, which are single-presentation methods that confound sensory and decisional determinants of performance. Thus, data collected with these tasks are unsuitable for elucidating whether changes in the TWI observed in studies on prior entry or temporal recalibration have a sensory or a decisional origin. The indeterminacy can be resolved with a dual-presentation timing (2PT) task in which observers report their judgment with a ternary response format: whether the first or the second presentation was more synchronous or else that they were equally synchronous. Yet, the analysis of 2PT data suffers from the lack of a process model that captures sensory, decisional, and response components of performance via separate parameters whose estimation can identify the cause of prior entry or recalibration effects. The main goal of this paper is to present and validate such a model. Simulation studies reveal that model parameters are identifiable and not confounded under the ternary response format. The empirical validity of the model is demonstrated by showing its capability to account for published data collected with the 2PT task under binary response formats and for new data collected with the ternary format. The new data relate to a study on differences in speed of processing between magnocellular and parvocellular visual pathways, and our analysis revealed that low-spatial-frequency information is processed 20–30 ms faster than high-spatial-frequency information. Measures of the TWI and the point of subjective synchrony are presented for their estimation from ternary 2PT data. Software in matlab and R to fit the model to ternary 2PT data is made available with this paper.
+ER  - 
+
+TY  - JOUR
+T1  - Integration among databases and data sets to support productive nanotechnology: Challenges and recommendations
+AU  - Karcher, Sandra
+AU  - Willighagen, Egon L.
+AU  - Rumble, John
+AU  - Ehrhart, Friederike
+AU  - Evelo, Chris T.
+AU  - Fritts, Martin
+AU  - Gaheen, Sharon
+AU  - Harper, Stacey L.
+AU  - Hoover, Mark D.
+AU  - Jeliazkova, Nina
+AU  - Lewinski, Nastassja
+AU  - Marchese Robinson, Richard L.
+AU  - Mills, Karmann C.
+AU  - Mustad, Axel P.
+AU  - Thomas, Dennis G.
+AU  - Tsiliki, Georgia
+AU  - Hendren, Christine Ogilvie
+JO  - NanoImpact
+VL  - 9
+SP  - 85
+EP  - 101
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 2452-0748
+DO  - https://doi.org/10.1016/j.impact.2017.11.002
+UR  - http://www.sciencedirect.com/science/article/pii/S2452074817301398
+KW  - Nanomaterials
+KW  - Nanotechnology
+KW  - Nanoinformatics
+KW  - Data integration
+KW  - Databases
+KW  - Web services
+AB  - Many groups within the broad field of nanoinformatics are already developing data repositories and analytical tools driven by their individual organizational goals. Integrating these data resources across disciplines and with non-nanotechnology resources can support multiple objectives by enabling the reuse of the same information. Integration can also serve as the impetus for novel scientific discoveries by providing the framework to support deeper data analyses. This article discusses current data integration practices in nanoinformatics and in comparable mature fields, and nanotechnology-specific challenges impacting data integration. Based on results from a nanoinformatics-community-wide survey, recommendations for achieving integration of existing operational nanotechnology resources are presented. Nanotechnology-specific data integration challenges, if effectively resolved, can foster the application and validation of nanotechnology within and across disciplines. This paper is one of a series of articles by the Nanomaterial Data Curation Initiative that address data issues such as data curation workflows, data completeness and quality, curator responsibilities, and metadata.
+ER  - 
+
+TY  - JOUR
+T1  - Issues with integrating carbonate sand texture data generated by different analytical approaches: A comparison of standard sieve and laser-diffraction methods
+AU  - Mattheus, C.R.
+AU  - Diggins, T.P.
+AU  - Santoro, J.A.
+JO  - Sedimentary Geology
+VL  - 401
+SP  - 105635
+PY  - 2020
+DA  - 2020/05/15/
+SN  - 0037-0738
+DO  - https://doi.org/10.1016/j.sedgeo.2020.105635
+UR  - http://www.sciencedirect.com/science/article/pii/S0037073820300506
+KW  - Sediment texture
+KW  - Particle-size analysis
+KW  - Beach sand
+KW  - Carbonate grains
+KW  - Laser diffraction
+KW  - Grain diameter
+AB  - Palaeoenvironmental reconstructive work relies on sediment-texture information as a proxy for particle-transport dynamics. As the integration of data from multiple sources is often sought for studies at the regional scale, a body of work exists that addresses compatibility levels of different analytical approaches. Past insights are derived predominantly from siliciclastic deposits. This study instead addresses standard sieve and laser-diffraction methods of texture analysis on a suite of carbonate beach sands from San Salvador Island, Bahamas. While the near-equant grain shapes of siliciclastic sands generate comparable results between methods, our findings show that laser diffraction tends to overestimate the coarser fractions in carbonate sands, given indiscriminate measurement of elongate particle axes. Peloidal grains that have width-to-length ratios on the order of 0.5 can pass through much smaller mesh sizes when sieved than diffraction would suggest. The resulting deviation in analytical outputs significantly influences measures of skewness, sorting, and other derivative metrics, which vary by up to several Wentworth classes between procedures. Meaningful integration of texture data obtained by different methods is ill-advised when dealing with carbonate beach sands. Similar problems are documented for muddy deposits, wherein platy clay minerals favor size-overestimation by laser diffraction and a size underestimation by settling tube technique. An improved understanding of methodological biases resulting from application of different particle-size methods is needed to help facilitate data-reconciliation efforts. This study provides a glimpse of issues facing the integration of carbonate sand-texture information, troublesome given prevalence of irregular grain shapes.
+ER  - 
+
+TY  - JOUR
+T1  - Applications of ENCODE data to systematic analyses via data integration
+AU  - Zhao, Yanding
+AU  - Schaafsma, Evelien
+AU  - Cheng, Chao
+JO  - Current Opinion in Systems Biology
+VL  - 11
+SP  - 57
+EP  - 64
+PY  - 2018
+DA  - 2018/10/01/
+T2  - • Big data acquisition and analysis • Development and differentiation
+SN  - 2452-3100
+DO  - https://doi.org/10.1016/j.coisb.2018.08.010
+UR  - http://www.sciencedirect.com/science/article/pii/S2452310018300593
+KW  - ENCODE
+KW  - Data integration
+KW  - Transcription factors
+KW  - Genomic alterations
+KW  - Drug discovery
+AB  - Large-scale genomic data have been utilized to generate unprecedented biological findings and new hypotheses. To delineate functional elements in the human genome, the Encyclopedia of DNA Elements (ENCODE) project has generated an enormous amount of genomic data, yielding around 7000 data profiles in different cell and tissue types. In this article, we reviewed the systematic analyses that have integrated ENCODE data with other data sources to reveal new biological insights, ranging from human genome annotation to the identification of new candidate drugs. These analyses demonstrate the critical impact of ENCODE data on basic biology and translational research.
+ER  - 
+
+TY  - JOUR
+T1  - Seamless Data Integration in the CAM-NC Process Chain in a Learning Factory
+AU  - Schmid, Johannes
+AU  - Pichler, Rudolf
+JO  - Procedia Manufacturing
+VL  - 45
+SP  - 31
+EP  - 36
+PY  - 2020
+DA  - 2020/01/01/
+T2  - Learning Factories across the value chain – from innovation to service – The 10th Conference on Learning Factories 2020
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2020.04.038
+UR  - http://www.sciencedirect.com/science/article/pii/S2351978920310763
+KW  - Seamless Data Integration
+KW  - CAM-NC Process Chain
+KW  - Tool Management
+KW  - Direct Numerical Control
+AB  - The seamless data integration of different components in the CAM-NC process chain (tool management software, tool dispensing system, presetting machine and machine tool) is essential for maximizing the efficiency and minimizing the total error rate. This is done by entering the data into the system of the network only once. Then this data is available for all participants in this network at any time. This paper describes the aforementioned integration by using the example of creating a digital tool, which is used in a CAM simulation afterwards. Then the real set-up and machining process is discussed. The process chain explained in this paper was implemented at the smartfactory@tugraz - the Learning Factory at Graz University of Technology.
+ER  - 
+
+TY  - JOUR
+T1  - Ground and aerial meta-data integration for localization and reconstruction: A review
+AU  - Gao, Xiang
+AU  - Shen, Shuhan
+AU  - Hu, Zhanyi
+AU  - Wang, Zhiheng
+JO  - Pattern Recognition Letters
+VL  - 127
+SP  - 202
+EP  - 214
+PY  - 2019
+DA  - 2019/11/01/
+T2  - Advances in Visual Correspondence: Models, Algorithms and Applications (AVC-MAA)
+SN  - 0167-8655
+DO  - https://doi.org/10.1016/j.patrec.2018.07.036
+UR  - http://www.sciencedirect.com/science/article/pii/S0167865518303544
+KW  - Ground and aerial meta-data integration
+KW  - Localization
+KW  - Reconstruction
+AB  - Localization and reconstruction are two highly related research areas. Both of them have developed rapidly in recent years. Apparently, with the help of ground and aerial meta-data integration, the performance of both localization and reconstruction can go a step further. For localization, aerial meta-data provides a global reference, by which the ground query can achieve a cumulative error free absolute localization. As for reconstruction, a complete and detailed model can be reconstructed by integrating ground and aerial meta-data. Though with many advantages, the integration itself is non-trivial. It is difficult to obtain ground-to-aerial correspondences neither in 2D manner nor in 3D manner. That is because: (1) The differences between the ground and aerial images in viewpoint, scale, illumination, etc. are notable; (2) The discrepancies between the ground and aerial point clouds in terms of point density, accuracy, noise level, etc. are very large. To deal with these problems, lots of methods have been proposed recently. In this paper, the methods of integrating ground and aerial meta-data for localization and reconstruction are reviewed respectively. Though many intermediate results with high quality have been achieved, we hope that inspired by the reviewed methods in this paper, more thorough methods and impressive results would emerge.
+ER  - 
+
+TY  - JOUR
+T1  - A review of CAD to CAE integration with a hierarchical data format (HDF)-based solution
+AU  - Khan, Md Tarique Hasan
+AU  - Rezwana, Saki
+JO  - Journal of King Saud University - Engineering Sciences
+PY  - 2020
+DA  - 2020/04/18/
+SN  - 1018-3639
+DO  - https://doi.org/10.1016/j.jksues.2020.04.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1018363920302282
+KW  - CAD
+KW  - CAE
+KW  - HDF
+KW  - Integration
+KW  - Macro-parametric approach
+AB  - Computer-Aided Design (CAD) and Computer-Aided Engineering (CAE) are two of the essential tools to design and develop new products. CAD systems help to design a new product efficiently, whereas CAE systems are used to predict and assess the future functionalities (durability, structural strength, etc.) of a product. Usually, these two systems work independently; however, their mutual dependency is a topic of interest for the researchers. This paper discusses the contemporary research efforts in the domain of CAD to CAE integration and later find the research gap. Based on the research gap this paper develop a methodology to integrate a CAD to CAE systems where scientific data format HDF (Hierarchical Data Format) acts as a bridge to link the gap between a CAD and CAE system. The virtual prototype of a product is getting accurate with the advancement of CAD systems; hence, the transferability of those models to a CAE system has become more sophisticated using traditional (e.g., .step, .iges files) methodologies. Since HDF is often used to handle massive and complex datasets for various research domains; hence, in this research effort HDF acts as a data repository neutral system to interact with the CAD and CAE systems. Based on the comprehensive literature review, this research effort aims to develop an uninterrupted integrated platform to handle complex design and analysis models using a big open-source data handling platform HDF (Hierarchical Data Format). MATLAB is used to bridge from the CAD system to HDF primarily and later from the HDF to CAE. A simple case study of analyzing a classic fluid mixing elbow demonstrates the preliminary implementation effort towards the proposed HDF-based integrated platform.
+ER  - 
+
+TY  - JOUR
+T1  - The data richness estimation framework for federated data warehouse integration
+AU  - Kern, Rafał
+AU  - Kozierkiewicz, Adrianna
+AU  - Pietranik, Marcin
+JO  - Information Sciences
+VL  - 513
+SP  - 397
+EP  - 411
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2019.10.046
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025519310175
+KW  - Data warehouse integration
+KW  - Knowledge management
+KW  - Consensus theory
+AB  - A federated data warehouse is a tool that provides an end-user a unified perspective on a finite set of independent data warehouses. This requires creating a global schema from partial schemas, which remains purely virtual. This is a result of iterative integration of participating data warehouses. It is then used to simulate that the aforementioned set of participating warehouses as an effectively one, “super” data warehouse exposed to the end-user. In this paper, authors present a framework, that can be used to evaluate the profitability of adding a new data warehouse to the existing federation, in terms of increased data richness and its expressiveness. Solid formal foundations are provided, along with heuristic algorithms, an experimental verification (which involved two different experimental procedures) and a statistical analysis of obtained results.
+ER  - 
+
+TY  - JOUR
+T1  - Social media big data integration: A new approach based on calibration
+AU  - Dalla Valle, Luciana
+AU  - Kenett, Ron
+JO  - Expert Systems with Applications
+VL  - 111
+SP  - 76
+EP  - 90
+PY  - 2018
+DA  - 2018/11/30/
+T2  - Big Data Analytics for Business Intelligence
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2017.12.044
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417308667
+KW  - Bayesian networks
+KW  - Calibration
+KW  - Data integration
+KW  - Social media
+KW  - Information quality (InfoQ)
+KW  - Resampling techniques
+AB  - In recent years, the growing availability of huge amounts of information, generated in every sector at high speed and in a wide variety of forms and formats, is unprecedented. The ability to harness big data is an opportunity to obtain more accurate analyses and to improve decision-making in industry, government and many other organizations. However, handling big data may be challenging and proper data integration is a key dimension in achieving high information quality. In this paper, we propose a novel approach to data integration that calibrates online generated big data with interview based customer survey data. A common issue of customer surveys is that responses are often overly positive, making it difficult to identify areas of weaknesses in organizations. On the other hand, online reviews are often overly negative, hampering an accurate evaluation of areas of excellence. The proposed methodology calibrates the levels of unbalanced responses in different data sources via resampling and performs data integration using Bayesian Networks to propagate the new re-balanced information. In this paper we show, with a case study example, how the novel data integration approach allows businesses and organizations to get a bias corrected appraisal of the level of satisfaction of their customers. The application is based on the integration of online data of review blogs and customer satisfaction surveys from the San Francisco airport. We illustrate how this integration enhances the information quality of the data analytic work in four of InfoQ dimensions, namely, Data Structure, Data Integration, Temporal Relevance and Chronology of Data and Goal.
+ER  - 
+
+TY  - JOUR
+T1  - Formal and informal environmental sensing data and integration potential: Perceptions of citizens and experts
+AU  - Jiang, Qijun
+AU  - Bregt, Arnold K.
+AU  - Kooistra, Lammert
+JO  - Science of The Total Environment
+VL  - 619-620
+SP  - 1133
+EP  - 1142
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2017.10.329
+UR  - http://www.sciencedirect.com/science/article/pii/S0048969717330474
+KW  - Citizen science
+KW  - Sensor
+KW  - Questionnaire
+KW  - Data quality
+KW  - Data integration
+AB  - Environmental sensing data provide crucial information for environment-related decision-making. Formal data are provided by official environmental institutes. Beyond those, however, there is a growing body of so-called informal sensing data, which are contributed by citizens using low-cost sensors. How good are these informal data, and how might they be applied, next to formal environmental sensing data? Could both types of sensing data be gainfully integrated? This paper presents the results of an online survey investigating perceptions within citizen science communities, environmental institutes and their networks of formal and informal environmental sensing data. The results show that citizens and experts had different views of formal and informal environmental sensing data, particularly on measurement frequency and the data information provision power. However, there was agreement, too, for example, on the accuracy of formal environmental sensing data. Furthermore, both agreed that the integration of formal and informal environmental sensing data offered potential for improvements on several aspects, particularly spatial coverage, data quantity and measurement frequency. Interestingly, the accuracy of informal environmental sensing data was largely unknown to both experts and citizens. This suggests the need for further investigation of informal environmental sensing data and the potential for its effective integration with formal environmental sensing data, if hurdles like standardisation can be overcome.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating advanced technologies to uphold security of payment: Data flow diagram
+AU  - Chong, Heap-Yih
+AU  - Diamantopoulos, Alexander
+JO  - Automation in Construction
+VL  - 114
+SP  - 103158
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2020.103158
+UR  - http://www.sciencedirect.com/science/article/pii/S0926580519313573
+KW  - Security of payment
+KW  - Advanced technologies
+KW  - Subcontractors
+KW  - Building information modelling
+KW  - BIM
+KW  - Blockchain technology
+KW  - Smart contracts
+KW  - Smart sensors
+KW  - Oracles
+KW  - Data flow diagram
+KW  - DFD
+AB  - Security of payment (SOP) issues still persist in the construction industry despite numerous investigations and incremental reforms. Various solutions and policies have been proposed and analysed in-depth in previous studies. However, limited studies have focused on the integration of advanced technologies to address SOP issues. The aim of this research is to develop a comprehensive framework that integrates practical advanced technologies to address SOP issues in the construction industry. A concurrent mixed-method design was adopted to (a) identify the industry's perspective on what advanced technologies can be accepted to address SOP issues through a questionnaire survey, and (b) identify the use of advanced technologies through a live construction project as a case study. Subsequently, a data flow diagram framework was developed to articulate the whole process flow of how the system delivers automatic payments to subcontractors upon the completion of their contractual obligations and work done. This research contributes new and practical insights into the application and integration of smart sensors, oracles, BIM, blockchain technology and smart contracts in addressing SOP issues in the construction industry.
+ER  - 
+
+TY  - JOUR
+T1  - SSEThread: Integrative threading of the DNA-PKcs sequence based on data from chemical cross-linking and hydrogen deuterium exchange
+AU  - Saltzberg, Daniel J.
+AU  - Hepburn, Morgan
+AU  - Pilla, Kala Bharath
+AU  - Schriemer, David C.
+AU  - Lees-Miller, Susan P.
+AU  - Blundell, Tom L.
+AU  - Sali, Andrej
+JO  - Progress in Biophysics and Molecular Biology
+VL  - 147
+SP  - 92
+EP  - 102
+PY  - 2019
+DA  - 2019/10/01/
+T2  - The Structural Biology of DNA Response and Repair
+SN  - 0079-6107
+DO  - https://doi.org/10.1016/j.pbiomolbio.2019.09.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0079610719300355
+KW  - Integrative modeling
+KW  - Threading
+KW  - X-ray crystallography
+KW  - Electron microscopy
+KW  - DNA-PKcs
+AB  - X-ray crystallography and electron microscopy maps resolved to 3–8 Å are generally sufficient for tracing the path of the polypeptide chain in space, while often insufficient for unambiguously registering the sequence on the path (i.e., threading). Frequently, however, additional information is available from other biophysical experiments, physical principles, statistical analyses, and other prior models. Here, we formulate an integrative approach for sequence assignment to a partial backbone model as an optimization problem, which requires three main components: the representation of the system, the scoring function, and the optimization method. The method is implemented in the open source Integrative Modeling Platform (IMP) (https://integrativemodeling.org), allowing a number of different terms in the scoring function. We apply this method to localizing the sequence assignment within a 199-residue disordered region of three structured and sequence unassigned helices in the DNA-PKcs crystallographic structure, using chemical crosslinks, hydrogen deuterium exchange, and sequence connectivity. The resulting ensemble of threading models provides two major solutions, one of which suggests that the crucial ABCDE cluster of phosphorylation sites cannot undergo intra-molecular autophosphorylation without a conformational rearrangement. The ensemble of solutions embodies the most accurate and precise sequence threading given the available information.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of Regulatory Modules That Stratify Lupus Disease Mechanism through Integrating Multi-Omics Data
+AU  - Wang, Ting-You
+AU  - Wang, Yong-Fei
+AU  - Zhang, Yan
+AU  - Shen, Jiangshan Jane
+AU  - Guo, Mengbiao
+AU  - Yang, Jing
+AU  - Lau, Yu Lung
+AU  - Yang, Wanling
+JO  - Molecular Therapy - Nucleic Acids
+VL  - 19
+SP  - 318
+EP  - 329
+PY  - 2020
+DA  - 2020/03/06/
+SN  - 2162-2531
+DO  - https://doi.org/10.1016/j.omtn.2019.11.019
+UR  - http://www.sciencedirect.com/science/article/pii/S2162253119303750
+KW  - systemic lupus erythematosus
+KW  - integrative analysis
+KW  - gene expression
+KW  - protein-protein interactions
+KW  - transcription factor
+KW  - regulatory modules
+AB  - Although recent advances in genetic studies have shed light on systemic lupus erythematosus (SLE), its detailed mechanisms remain elusive. In this study, using datasets on SLE transcriptomic profiles, we identified 750 differentially expressed genes (DEGs) in T and B lymphocytes and peripheral blood cells. Using transcription factor (TF) binding data derived from chromatin immunoprecipitation sequencing (ChIP-seq) experiments from the Encyclopedia of DNA Elements (ENCODE) project, we inferred networks of co-regulated genes (NcRGs) based on binding profiles of the upregulated DEGs by significantly enriched TFs. Modularization analysis of NcRGs identified co-regulatory modules among the DEGs and master TFs vital for each module. Remarkably, the co-regulatory modules stratified the common SLE interferon (IFN) signature and revealed SLE pathogenesis pathways, including the complement cascade, cell cycle regulation, NETosis, and epigenetic regulation. By integrative analyses of disease-associated genes (DAGs), DEGs, and enriched TFs, as well as proteins interacting with them, we identified a hierarchical regulatory cascade with TFs regulated by DAGs, which in turn regulates gene expression. Integrative analysis of multi-omics data provided valuable molecular insights into the molecular mechanisms of SLE.
+ER  - 
+
+TY  - JOUR
+T1  - Polly: A Tool for Rapid Data Integration and Analysis in Support of Agricultural Research and Education
+AU  - Muhammad, Waqar
+AU  - Esposito, Flavio
+AU  - Maimaitijiang, Maitiniyazi
+AU  - Sagan, Vasit
+AU  - Bonaiuti, Enrico
+JO  - Internet of Things
+VL  - 9
+SP  - 100141
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2019.100141
+UR  - http://www.sciencedirect.com/science/article/pii/S254266051930246X
+KW  - smart farming
+KW  - serverless computing
+KW  - network virtualization
+KW  - machine learning
+KW  - UAV
+AB  - Data analysis and modeling is a complex and demanding task. While a variety of software and tools exist to cope with this problem and tame big data operations, most of these tools are either not free, and when they are, they require large amount of configuration and steep learning curve. Moreover, they provide limited functionalities. In this paper we propose Polly, an online data analysis and modeling open-source tool that is intuitive to use and can be used with minimal or no configuration. Users can use Polly to rapidly integrate, analyze their data, prototype and test their novel methodologies. Polly can be used also as an educational tool. Users can use Polly to upload or connect to their structured data sources, load the required data into our system and perform various data processing tasks. Examples of such operations include data cleaning, data pre-processing, attribute encoding, regression and classification analysis. Aside from modeling, users can then download their results in the form of graphs in several standard visualization formats. While in this paper we focus on analyzing dataset for smart farming, our tool usage fits to a more general audience. To justify our backend design and implementation choices, we also present a performance analysis between backend virtualization technologies (containers or serverless computing), showing both expected and surprising results.
+ER  - 
+
+TY  - JOUR
+T1  - Engineering complex data integration, harmonization and visualization systems
+AU  - Avazpour, Iman
+AU  - Grundy, John
+AU  - Zhu, Liming
+JO  - Journal of Industrial Information Integration
+VL  - 16
+SP  - 100103
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2019.08.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2452414X18301511
+KW  - Data Integration
+KW  - Data Harmonisation
+KW  - Cleaning
+KW  - Pre-processing
+KW  - Federated Databases
+KW  - Multi-source data collection
+KW  - Data Inconsistencies
+KW  - Aggregation
+KW  - Visualization
+AB  - Complex data transformation, aggregation and visualization problems are becoming increasingly common. These are needed in order to support improved business intelligence and end-user access to data. However, most such applications present very challenging software engineering problems including noisy data, diverse data formats and APIs, challenging data modeling and increasing demand for sophisticated visualization support. This paper describes a data integration, harmonization and visualization process and framework that we have been developing. We discuss our approach used to tackle complex data aggregation and harmonization problems and we demonstrate a set of information visualizations that can be developed from the harmonized data to make it usable for its target audience. We use a case study of Household Travel Survey data mapping, harmonization, aggregation and visualization to illustrate our approach. We summarize a set of lessons that we have learned from this industry-based software engineering experience. We hope these will be useful for others embarking on challenging data harmonization and integration problems. We also identify several key directions and needs for future research and practical support in this area.
+ER  - 
+
+TY  - JOUR
+T1  - Using an integrative approach to evaluate shrimp bycatch from subtropical data-poor fisheries
+AU  - Rodrigues-Filho, L. Jorge
+AU  - Dolbeth, Marina
+AU  - Bernardes Jr, Jurandir J.
+AU  - Ogashawara, Igor
+AU  - Branco, Joaquim O.
+JO  - Fisheries Research
+VL  - 230
+SP  - 105587
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0165-7836
+DO  - https://doi.org/10.1016/j.fishres.2020.105587
+UR  - http://www.sciencedirect.com/science/article/pii/S0165783620301041
+KW  - Bycatch
+KW  - Shrimp fishing
+KW  - Data-poor fisheries
+KW  - Ecological parameters
+KW  - Temporal trends
+AB  - Tropical and subtropical shrimp fisheries occur mainly nearshore, where numerous non-target species (bycatch) are captured. Bycatch is a serious issue for fishing activity and understanding its impacts through integrative analyses of the bycatch structure is necessary. In Brazil, information on bycatch composition and structure is limited. As such, we conducted a study on the target species and bycatch communities from a fishery area in the southern Brazilian coast, considering a 20-year dataset. The target species abundance was influenced by seasonal conditions, where peaks of abundance occurred from February to May and August to October. The trawl captures comprised 149 species, of which 116 species were discarded and 33 were considered usable by the fishermen. The bycatch composition had few abundant and several rare species, with a high bycatch rate associated with salinity and TSS, mainly in the latter years of study. Bycatch diversity showed association with salinity, and multiyear oscillations, but generally maintained a stable trend over years. Our analysis revealed bycatch patterns and the influence of environmental variables in a single ecosystem. In the context of scarce data and an incipient management structure, these findings are crucial to develop a coherent approach for fisheries management.
+ER  - 
+
+TY  - JOUR
+T1  - Phase-field model of vascular tumor growth: Three-dimensional geometry of the vascular network and integration with imaging data
+AU  - Xu, Jiangping
+AU  - Vilanova, Guillermo
+AU  - Gomez, Hector
+JO  - Computer Methods in Applied Mechanics and Engineering
+VL  - 359
+SP  - 112648
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0045-7825
+DO  - https://doi.org/10.1016/j.cma.2019.112648
+UR  - http://www.sciencedirect.com/science/article/pii/S0045782519305328
+KW  - Nutrient transport
+KW  - Tumor growth
+KW  - Angiogenesis
+KW  - Computational modeling
+AB  - Tumors promote the growth of new capillaries through a process called angiogenesis. Blood flows through these new vessels providing cancerous cells with nutrients. However, because tumor-induced vasculature is defective, blood flow is heterogeneous both in space and time. As a result, regional hypoxia and acidosis may appear, increasing the malignancy of the tumor. In this work, we developed a three-dimensional model to address the complex interplay between angiogenesis, tumor growth, nutrient distribution and blood flow. The model emphasizes three-dimensional geometry of the vascular network and integration with in vivo imaging techniques by use of the phase-field approach. We show that our method allows computing directly on the photoacoustic imaging raw data, avoiding the mesh generation process, which is the usual bottleneck for integration of computational methods and imaging data. We present two- and three-dimensional results of the dynamics of vascular tumor growth coupled with blood flow within a time-evolving capillary network.
+ER  - 
+
+TY  - JOUR
+T1  - OBDAIR: Ontology-Based Distributed framework for Accessing, Integrating and Reasoning with data in disparate data sources
+AU  - Santipantakis, Georgios
+AU  - Kotis, Konstantinos
+AU  - Vouros, George A.
+JO  - Expert Systems with Applications
+VL  - 90
+SP  - 464
+EP  - 483
+PY  - 2017
+DA  - 2017/12/30/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2017.08.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417417305705
+KW  - Ontology-based data access
+KW  - Ontology-based data integration
+KW  - Distributed ontology
+KW  - Distributed reasoning
+KW  - Ontology-based event recognition
+AB  - The correlated exploitation of disparate and heterogeneous data sources is important to the efficacy of many analytics tasks. Currently in application domains of major interest, such as in the maritime and aviation domains, available technology provides real time surveillance data from moving entities, which together with archival static data, can be processed in an integrated way to detect complex events and support decision making. The variety of data in disparate sources, the heterogeneity of data formats, as well as the volume of data, make data retrieval, integration, and especially reasoning with these data, challenging tasks. This paper presents an ontology-based distributed framework that addresses conjunctively these challenges: Data retrieval, integration and reasoning with data from heterogeneous static or regularly updated data sources. The proposed OBDAIR framework provides the means to support building scalable data-driven domain-specific applications that support decision-making and problem-solving. This is achieved by processing large volumes of heterogeneous data close to the sources, supporting knowledge generation in a distributed/decentralized but still unified manner. OBDAIR integrates modular ontology representation frameworks and ontology-based data access frameworks: This article presents an instantiation of OBDAIR using the modular ontology representation framework E−SHIQ, and the Ontop ontology-based access system. This OBDAIR instance has been evaluated at recognising important complex events in the maritime domain using real-world data. Experiments show the potential of OBDAIR to detect complex events in large geographic areas with computational efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - I3: A Self-organising Learning Workflow for Intuitive Integrative Interpretation of Complex Genetic Data
+AU  - Tan, Yun
+AU  - Jiang, Lulu
+AU  - Wang, Kankan
+AU  - Fang, Hai
+JO  - Genomics, Proteomics & Bioinformatics
+VL  - 17
+IS  - 5
+SP  - 503
+EP  - 510
+PY  - 2019
+DA  - 2019/10/01/
+T2  - Bioinformatics Commons
+SN  - 1672-0229
+DO  - https://doi.org/10.1016/j.gpb.2018.10.006
+UR  - http://www.sciencedirect.com/science/article/pii/S1672022919301500
+KW  - Self-organising
+KW  - Human genetics
+KW  - Interpretation
+KW  - Evolution
+KW  - Machine learning
+AB  - We propose a computational workflow (I3) for intuitive integrative interpretation of complex genetic data mainly building on the self-organising principle. We illustrate the use in interpreting genetics of gene expression and understanding genetic regulators of protein phenotypes, particularly in conjunction with information from human population genetics and/or evolutionary history of human genes. We reveal that loss-of-function intolerant genes tend to be depleted of tissue-sharing genetics of gene expression in brains, and if highly expressed, have broad effects on the protein phenotypes studied. We suggest that this workflow presents a general solution to the challenge of complex genetic data interpretation. I3 is available at http://suprahex.r-forge.r-project.org/I3.html.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating technology and data analytic skills into the accounting curriculum: Accounting department leaders’ experiences and insights
+AU  - Andiola, Lindsay M.
+AU  - Masters, Erin
+AU  - Norman, Carolyn
+JO  - Journal of Accounting Education
+VL  - 50
+SP  - 100655
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0748-5751
+DO  - https://doi.org/10.1016/j.jaccedu.2020.100655
+UR  - http://www.sciencedirect.com/science/article/pii/S0748575120300038
+KW  - AACSB
+KW  - Standard A7
+KW  - Standard A5
+KW  - Technology skills
+KW  - Data analytics
+KW  - Accounting curriculum
+AB  - Recently, accounting professionals have highlighted the need for accounting students to have technology and data analytic skills to be successful in the accounting profession. To meet this demand, AACSB elected to mandate that all accounting departments with supplemental accreditation integrate a minimum level of technology and data analytic skills into their curricula through Standard A7 (now Standard A5). We report survey results of AACSB accredited accounting department leaders concerning their experiences in integrating technology into the curriculum, including their perspectives on implementation status and challenges, as well as their current program offerings. We find that Standard A7 was impactful in eliciting change, but that the method of integration, as well as the available courses, varies across programs. Our findings and discussion should be of interest to the leaders of accounting and business programs accredited by the AACSB or planning to gain accreditation, other accounting programs seeking to integrate technology, the AACSB and other accrediting bodies, as well as other stakeholders (e.g., AAA, AICPA).
+ER  - 
+
+TY  - JOUR
+T1  - Data source selection for information integration in big data era
+AU  - Lin, Yiming
+AU  - Wang, Hongzhi
+AU  - Li, Jianzhong
+AU  - Gao, Hong
+JO  - Information Sciences
+VL  - 479
+SP  - 197
+EP  - 213
+PY  - 2019
+DA  - 2019/04/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2018.11.029
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025518309162
+KW  - Source selection
+KW  - Data integration
+KW  - Data cleaning
+AB  - In big data era, information integration often requires abundant data extracted from massive data sources. Due to a large number of data sources, data source selection plays a crucial role in information integration, since it is costly and even impossible to access all data sources. Data Source selection should consider both efficiency and effectiveness issues. For efficiency, the approach should scale to large data source amount. From effectiveness aspect, data quality and overlapping of sources are to be considered. In this paper, we study source selection problem in Big Data and propose methods which can scale to datasets with up to millions of data sources and guarantee the quality of results. Motivated by this, we propose a new metric taking the expected number of true values a source can provide as a criteria to evaluate the contribution of a data source. Based on our proposed index, we present a scalable algorithm and two pruning strategies to improve the efficiency without sacrificing precision. Experimental results on both real world and synthetic data sets show that our methods can select sources providing a large proportion of true values efficiently and can scale to massive data sources.
+ER  - 
+
+TY  - JOUR
+T1  - Quantitative integration of sedimentological core descriptions and petrophysical data using high-resolution XRF core scans
+AU  - Henares, S.
+AU  - Donselaar, M.E.
+AU  - Bloemsma, M.R.
+AU  - Tjallingii, R.
+AU  - De Wijn, B.
+AU  - Weltje, G.J.
+JO  - Marine and Petroleum Geology
+VL  - 110
+SP  - 450
+EP  - 462
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0264-8172
+DO  - https://doi.org/10.1016/j.marpetgeo.2019.07.034
+UR  - http://www.sciencedirect.com/science/article/pii/S0264817219303447
+KW  - Data integration
+KW  - XRF core scanning
+KW  - Reservoir quality
+KW  - Property prediction
+KW  - Geochemical proxy data
+AB  - In light of the huge investments needed to acquire sediment cores and the growing need of energy-providing companies to predict reservoir quality, it is remarkable that the standard workflow in core analysis has not been optimized to extract as much information from cores as possible. The Integrated Core Analysis (ICA) protocol presented in this study provides a statistical framework for multivariate calibration and prediction of a wide range of properties measured in core, based on integration of high-resolution X-ray fluorescence core-scanning (XRF-CS) proxy records with records of sparsely sampled petrophysical data and sedimentological core descriptions. The downscaling of numerical data involves the application of invertible transformations to remove range constraints on data, followed by calibration with Partial Least Squares regression through cross validation. Categorical data (i.e. lithofacies) are downscaled by associating each class with a statistical model based on the XRF-CS data. All data points are reassigned to their most likely class by applying Quadratic Discriminant Analysis. The result of the ICA is a multivariate data set in which all properties are specified at the same high resolution along the core with their prediction uncertainties. Downscaling of all variables to 1-cm vertical resolution permits investigation of the variability among petrophysical properties, geochemical proxies, and lithofacies memberships. Petrographic analysis is fundamental for interpretation of the XRF-CS records (element-mineral affinity) and for understanding the sedimentological controls on predicted petrophysical properties. Application of the ICA protocol to a 32 m thick, heterogeneous, Upper Carboniferous fluvial sandstone interval resulted in a near 30-fold increase of the petrophysical data base, which allowed identification of the main depositional and diagenetic controls on the spatial distribution of reservoir quality. Successful implementation of the novel ICA protocol will greatly increase the economic value of legacy core data in studies that aim to re-use depleted hydrocarbon reservoirs.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating data of veterinarians’ practices in assessing the cost effectiveness of three components of the bovine tuberculosis surveillance system by intradermal tuberculin testing in French cattle farms through a scenario-tree approach
+AU  - Gétin-Poirier, V.
+AU  - Crozet, G.
+AU  - Gardon, S.
+AU  - Dufour, B.
+AU  - Rivière, J.
+JO  - Research in Veterinary Science
+VL  - 128
+SP  - 242
+EP  - 260
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0034-5288
+DO  - https://doi.org/10.1016/j.rvsc.2019.12.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0034528819304618
+KW  - Practices
+KW  - Scenario tree
+KW  - Bovine tuberculosis
+KW  - Sensitivity
+KW  - Surveillance
+KW  - Intradermal tuberculin test
+AB  - Disease surveillance systems’ effectiveness relies on participants following prescribed practices. We developed a general method to improve a previous cost-effectiveness evaluation of three French screening program protocols for bovine tuberculosis (bTB) to account for the practices of participants by scenario tree modelling. This method relies on: 1) semi-directive interviews of participants to identify the variability of practices and potentially influential factors, and to understand the sociological context; 2) a quantitative survey, based on multiple-choice questions, to quantify various practices and identify significantly influential factors by multivariable regression analyses; 3) addition of the scenario-tree nodes corresponding to the practices and their influential factors and configuration of the new limbs according to the data of the quantitative survey. We used this approach to integrate data concerning veterinary practices and identify some failures to conform to regulatory guidelines regarding intradermal cervical comparative tuberculin test (SICCT) (testing and notification of non-negative results). Such nonconformities appeared to be mainly caused by cattle restraint issues and the perception of veterinarians of the bTB control program. Indeed, their perception of that program significantly influenced veterinarians’ practices. We modelled the influence of the SICCT practices on the SICCT results. The incorporation of these data led to a major decrease of the herd sensitivity estimations relative to the previous assessments that did not incorporate data of practices (15% to 42% decrease). This result shows the important impact of veterinarians’ practices and their influencing factors (such as perception of the bTB control program) on the effectiveness of the surveillance system.
+ER  - 
+
+TY  - JOUR
+T1  - A pharmacometric approach to define target site-specific breakpoints for bacterial killing and resistance suppression integrating microdialysis, time–kill curves and heteroresistance data: a case study with moxifloxacin
+AU  - Iqbal, K.
+AU  - Broeker, A.
+AU  - Nowak, H.
+AU  - Rahmel, T.
+AU  - Nussbaumer-Pröll, A.
+AU  - Österreicher, Z.
+AU  - Zeitlinger, M.
+AU  - Wicha, S.G.
+JO  - Clinical Microbiology and Infection
+PY  - 2020
+DA  - 2020/02/21/
+SN  - 1198-743X
+DO  - https://doi.org/10.1016/j.cmi.2020.02.013
+UR  - http://www.sciencedirect.com/science/article/pii/S1198743X20300938
+KW  - Target specific breakpoints
+KW  - Microdialysis
+KW  - Pharmacokinetic-pharmacodynamic (PK/PD)
+KW  - PBPK modelling
+KW  - Resistance suppression
+KW  - Time-kill studies
+KW  - Non-linear mixed effects modelling
+KW  - Pharmacometric
+AB  - Objectives
+Pharmacokinetic–pharmacodynamic (PK-PD) considerations are at the heart of defining susceptibility breakpoints for antibiotic therapy. However, current approaches follow a fragmented workflow. The aim of this study was to develop an integrative pharmacometric approach to define MIC-based breakpoints for killing and suppression of resistance development for plasma and tissue sites, integrating clinical microdialysis data as well as in vitro time–kill curves and heteroresistance information, exemplified by moxifloxacin against Staphylococcus aureus and Escherichia coli.
+Methods
+Plasma and target site samples were collected from ten patients receiving 400 mg moxifloxacin/day. In vitro time–kill studies with three S. aureus and two E. coli strains were performed and resistant subpopulations were quantified. Using these data, a hybrid physiologically based (PB) PK model and a PK-PD model were developed, and utilized to predict site-specific breakpoints.
+Results
+For both bacterial species, the predicted MIC breakpoint for stasis at 400 mg/day was 0.25 mg/L. Less reliable killing was predicted for E. coli in subcutaneous tissues where the breakpoint was 0.125 mg/L. The breakpoint for resistance suppression was 0.06 mg/L. Notably, amplification of resistant subpopulations was highest at the clinical breakpoint of 0.25 mg/L. High-dose moxifloxacin (800 mg/day) increased all breakpoints by one MIC tier.
+Conclusions
+An efficient pharmacometric approach to define susceptibility breakpoints was developed; this has the potential to streamline the process of breakpoint determination. Thereby, the approach provided additional insight into target site PK-PD and resistance development for moxifloxacin. Application of the approach to further drugs is warranted.
+ER  - 
+
+TY  - JOUR
+T1  - Genome-wide predicting disease-related protein complexes by walking on the heterogeneous network based on data integration and laplacian normalization
+AU  - Liu, Zhiming
+AU  - Luo, Jiawei
+JO  - Computational Biology and Chemistry
+VL  - 69
+SP  - 41
+EP  - 47
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 1476-9271
+DO  - https://doi.org/10.1016/j.compbiolchem.2017.04.007
+UR  - http://www.sciencedirect.com/science/article/pii/S1476927116306314
+KW  - Disease-related protein complex
+KW  - Data integration
+KW  - Laplacian normalization
+AB  - Background
+Associating protein complexes to human inherited diseases is critical for better understanding of biological processes and functional mechanisms of the disease. Many protein complexes have been identified and functionally annotated by computational and purification methods so far, however, the particular roles they were playing in causing disease have not yet been well determined.
+Results
+In this study, we present a novel method to identify associations between protein complexes and diseases. First, we construct a disease-protein heterogeneous network based on data integration and laplacian normalization. Second, we apply a random walk with restart on heterogeneous network (RWRH) algorithm on this network to quantify the strength of the association between proteins and the query disease. Third, we sum over the scores of member proteins to obtain a summary score for each candidate protein complex, and then rank all candidate protein complexes according to their scores. With a series of leave-one-out cross-validation experiments, we found that our method not only possesses high performance but also demonstrates robustness regarding the parameters and the network structure. We test our approach with breast cancer and select top 20 highly ranked protein complexes, 17 of the selected protein complexes are evidenced to be connected with breast cancer.
+Conclusions
+Our proposed method is effective in identifying disease-related protein complexes based on data integration and laplacian normalization.
+ER  - 
+
+TY  - JOUR
+T1  - Combining data integration and molecular dynamics for target identification in α-Synuclein-aggregating neurodegenerative diseases: Structural insights on Synaptojanin-1 (Synj1)
+AU  - Jenkins, Kirsten
+AU  - Mateeva, Teodora
+AU  - Szabó, István
+AU  - Melnik, Andre
+AU  - Picotti, Paola
+AU  - Csikász-Nagy, Attila
+AU  - Rosta, Edina
+JO  - Computational and Structural Biotechnology Journal
+VL  - 18
+SP  - 1032
+EP  - 1042
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 2001-0370
+DO  - https://doi.org/10.1016/j.csbj.2020.04.010
+UR  - http://www.sciencedirect.com/science/article/pii/S2001037020300428
+KW  - Data integration
+KW  - Molecular dynamics (MD)
+KW  - Neurodegenerative diseases
+KW  - Parkinson’s disease (PD)
+KW  - Synaptojanin-1
+KW  - α-Synuclein
+AB  - Parkinson’s disease (PD), Alzheimer’s disease (AD) and Amyotrophic lateral sclerosis (ALS) are neurodegenerative diseases hallmarked by the formation of toxic protein aggregates. However, targeting these aggregates therapeutically have thus far shown no success. The treatment of AD has remained particularly problematic since no new drugs have been approved in the last 15 years. Therefore, novel therapeutic targets need to be identified and explored. Here, through the integration of genomic and proteomic data, a set of proteins with strong links to α-synuclein-aggregating neurodegenerative diseases was identified. We propose 17 protein targets that are likely implicated in neurodegeneration and could serve as potential targets. The human phosphatidylinositol 5-phosphatase synaptojanin-1, which has already been independently confirmed to be implicated in Parkinson’s and Alzheimer’s disease, was among those identified. Despite its involvement in PD and AD, structural aspects are currently missing at the molecular level. We present the first atomistic model of the 5-phosphatase domain of synaptojanin-1 and its binding to its substrate phosphatidylinositol 4,5-bisphosphate (PIP2). We determine structural information on the active site including membrane-embedded molecular dynamics simulations. Deficiency of charge within the active site of the protein is observed, which suggests that a second divalent cation is required to complete dephosphorylation of the substrate. The findings in this work shed light on the protein’s binding to phosphatidylinositol 4,5-bisphosphate (PIP2) and give additional insight for future targeting of the protein active site, which might be of interest in neurodegenerative diseases where synaptojanin-1 is overexpressed.
+ER  - 
+
+TY  - JOUR
+T1  - An Ontology-based approach to Knowledge-assisted Integration and Visualization of Urban Mobility Data
+AU  - Sobral, Thiago
+AU  - Galvão, Teresa
+AU  - Borges, José
+JO  - Expert Systems with Applications
+VL  - 150
+SP  - 113260
+PY  - 2020
+DA  - 2020/07/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2020.113260
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417420300853
+KW  - Data integration
+KW  - Data visualization
+KW  - Urban mobility
+KW  - Semantic web
+KW  - ontology
+AB  - This paper proposes an ontology-based framework to support integration and visualization of data from Intelligent Transportation Systems. These activities may be technically demanding for transportation stakeholders, due to technical and human factors, and may hinder the use of visualization tools in practice. The existing ontologies do not provide the necessary semantics for integration of spatio-temporal data from such systems. Moreover, a formal representation of the components of visualization techniques and expert knowledge can leverage the development of visualization tools that facilitate data analysis. The proposed Visualization-oriented Urban Mobility Ontology (VUMO) provides a semantic foundation to knowledge-assisted visualization tools (KVTs). VUMO contains three facets that interrelate the characteristics of spatio-temporal mobility data, visualization techniques and expert knowledge. A built-in rule set leverages semantic technologies standards to infer which visualization techniques are compatible with analytical tasks, and to discover implicit relationships within integrated data. The annotation of expert knowledge encodes qualitative and quantitative feedback from domain experts that can be exploited by recommendation methods to automate part of the visualization workflow. Data from the city of Porto, Portugal were used to demonstrate practical applications of the ontology for each facet. As a foundational domain ontology, VUMO can be extended to meet the distinctiveness of a KVT.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating hydrologic modeling web services with online data sharing to prepare, store, and execute hydrologic models
+AU  - Gan, Tian
+AU  - Tarboton, David G.
+AU  - Dash, Pabitra
+AU  - Gichamo, Tseganeh Z.
+AU  - Horsburgh, Jeffery S.
+JO  - Environmental Modelling & Software
+VL  - 130
+SP  - 104731
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2020.104731
+UR  - http://www.sciencedirect.com/science/article/pii/S1364815219311661
+KW  - Hydrologic modeling
+KW  - Data sharing
+KW  - Reproducibility
+KW  - Web services
+KW  - HydroShare
+AB  - Web based applications, web services, and online data and model sharing technology are becoming increasingly available to support hydrologic research. This promises benefits in terms of collaboration, computer platform independence, and reproducibility of modeling workflows and results. In this research, we designed an approach that integrates hydrologic modeling web services with an online data sharing system to support web-based simulation for hydrologic models. We used this approach to integrate example systems as a case study to support reproducible snowmelt modeling for a test watershed in the Colorado River Basin, USA. We demonstrated that this approach enabled users to work within an online environment to create, describe, share, discover, repeat, modify, and analyze the modeling work. This approach encourages collaboration and improves research reproducibility. It can also be adopted or adapted to integrate other hydrologic modeling web services with data sharing systems for different hydrologic models.
+ER  - 
+
+TY  - JOUR
+T1  - Data integration in IoT ecosystem: Information linkage as a privacy threat
+AU  - Madaan, Nishtha
+AU  - Ahad, Mohd Abdul
+AU  - Sastry, Sunil M.
+JO  - Computer Law & Security Review
+VL  - 34
+IS  - 1
+SP  - 125
+EP  - 133
+PY  - 2018
+DA  - 2018/02/01/
+SN  - 0267-3649
+DO  - https://doi.org/10.1016/j.clsr.2017.06.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364917301358
+KW  - Internet of things
+KW  - Data integration
+KW  - Information linkage
+KW  - Privacy
+KW  - Heterogeneous IoT ecosystem
+AB  - Internet of things (IoT) is changing the way data is collected and processed. The scale and variety of devices, communication networks, and protocols involved in data collection present critical challenges for data processing and analyses. Newer and more sophisticated methods for data integration and aggregation are required to enhance the value of real-time and historical IoT data. Moreover, the pervasive nature of IoT data presents a number of privacy threats because of intermediate data processing steps, including data acquisition, data aggregation, fusion and integration. User profiling and record linkage are well studied topics in online social networks (OSNs); however, these have become more critical in IoT applications where different systems share and integrate data and information. The proposed study aims to discuss the privacy threat of information linkage, technical and legal approaches to address it in a heterogeneous IoT ecosystem. The paper illustrates and explains information linkage during the process of data integration in a smart neighbourhood scenario. Through this work, the authors aim to enable a technical and legal framework to ensure stakeholders awareness and protection of subjects about privacy breaches due to information linkage.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of curated and high-throughput screening data to elucidate environmental influences on disease pathways
+AU  - Kosnik, Marissa B.
+AU  - Planchart, Antonio
+AU  - Marvel, Skylar W.
+AU  - Reif, David M.
+AU  - Mattingly, Carolyn J.
+JO  - Computational Toxicology
+VL  - 12
+SP  - 100094
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 2468-1113
+DO  - https://doi.org/10.1016/j.comtox.2019.100094
+UR  - http://www.sciencedirect.com/science/article/pii/S2468111319300155
+KW  - Data integration
+KW  - ToxCast
+KW  - CTD
+KW  - Disease
+KW  - Disease pathways
+AB  - Addressing the complex relationship between public health and environmental exposure requires multiple types and sources of data. An important source of chemical data derives from high-throughput screening (HTS) efforts, such as the Tox21/ToxCast program, which aim to identify chemical hazard using primarily in vitro assays to probe toxicity. While most of these assays target specific genes, assessing the disease-relevance of these assays remains challenging. Integration with additional data sets may help to resolve these questions by providing broader context for individual assay results. The Comparative Toxicogenomics Database (CTD), a publicly available database that builds networks of chemical, gene, and disease information from manually curated literature sources, offers a promising solution for contextual integration with HTS data. Here, we tested the value of integrating data across Tox21/ToxCast and CTD by linking elements common to both databases (i.e., assays, genes, and chemicals). Using polymarcine and Parkinson’s disease as a case study, we found that their union significantly increased chemical-gene associations and disease-pathway coverage. Integration also enabled new disease associations to be made with HTS assays, expanding coverage of chemical-gene data associated with diseases. We demonstrate how integration enables development of predictive adverse outcome pathways using 4-nonylphenol, branched as an example. Thus, we demonstrate enhancements to each data source through database integration, including scenarios where HTS data can efficiently probe chemical space that may be understudied in the literature, as well as how CTD can add biological context to those results.
+ER  - 
+
+TY  - JOUR
+T1  - Simultaneous Integration of Multi-omics Data Improves the Identification of Cancer Driver Modules
+AU  - Silverbush, Dana
+AU  - Cristea, Simona
+AU  - Yanovich-Arad, Gali
+AU  - Geiger, Tamar
+AU  - Beerenwinkel, Niko
+AU  - Sharan, Roded
+JO  - Cell Systems
+VL  - 8
+IS  - 5
+SP  - 456
+EP  - 466.e5
+PY  - 2019
+DA  - 2019/05/22/
+SN  - 2405-4712
+DO  - https://doi.org/10.1016/j.cels.2019.04.005
+UR  - http://www.sciencedirect.com/science/article/pii/S2405471219301474
+KW  - driver modules
+KW  - cancer drivers
+KW  - cancer pathways
+KW  - data integration
+KW  - cancer
+KW  - mutual exclusivity
+KW  - integer linear programming
+KW  - simultaneous optimization
+AB  - Summary
+The identification of molecular pathways driving cancer progression is a fundamental challenge in cancer research. Most approaches to address it are limited in the number of data types they employ and perform data integration in a sequential manner. Here, we describe ModulOmics, a method to de novo identify cancer driver pathways, or modules, by integrating protein-protein interactions, mutual exclusivity of mutations and copy number alterations, transcriptional coregulation, and RNA coexpression into a single probabilistic model. To efficiently search and score the large space of candidate modules, ModulOmics employs a two-step optimization procedure that combines integer linear programming with stochastic search. Applied across several cancer types, ModulOmics identifies highly functionally connected modules enriched with cancer driver genes, outperforming state-of-the-art methods and demonstrating the power of using multiple omics data types simultaneously. On breast cancer subtypes, ModulOmics proposes unexplored connections supported by an independent patient cohort and independent proteomic and phosphoproteomic datasets.
+ER  - 
+
+TY  - JOUR
+T1  - An open-data open-model framework for hydrological models’ integration, evaluation and application
+AU  - Salas, Daniel
+AU  - Liang, Xu
+AU  - Navarro, Miguel
+AU  - Liang, Yao
+AU  - Luna, Daniel
+JO  - Environmental Modelling & Software
+VL  - 126
+SP  - 104622
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2020.104622
+UR  - http://www.sciencedirect.com/science/article/pii/S1364815219308898
+KW  - Open architecture
+KW  - Scientific workflow
+KW  - Data-source integration
+KW  - Model coupling
+KW  - Machine-to-machine automation
+KW  - Reproducible process
+AB  - To tackle fundamental scientific questions regarding health, resilience and sustainability of water resources which encompass multiple disciplines, researchers need to be able to easily access diverse data sources and to also effectively incorporate these data into heterogeneous models. To address these cyberinfrastructure challenges, a new sustainable and easy-to-use Open Data and Open Modeling framework called Meta-Scientific-Modeling (MSM) is developed. MSM addresses the challenges of accessing heterogeneous data sources via the Open Data architecture which facilitates integration of various external data sources. Data Agents are used to handle remote data access protocols, metadata standards, and source-specific implementations. The Open Modeling architecture allows different models to be easily integrated into MSM via Model Agents, enabling direct heterogeneous model coupling. MSM adopts a graphical scientific workflow system (VisTrails) and does not require re-compiling or adding interface codes for any diverse model integration. A study case is presented to illustrate the merit of MSM.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of planning, scheduling and control problems using data-driven feasibility analysis and surrogate models
+AU  - Dias, Lisia S.
+AU  - Ierapetritou, Marianthi G.
+JO  - Computers & Chemical Engineering
+VL  - 134
+SP  - 106714
+PY  - 2020
+DA  - 2020/03/04/
+SN  - 0098-1354
+DO  - https://doi.org/10.1016/j.compchemeng.2019.106714
+UR  - http://www.sciencedirect.com/science/article/pii/S0098135419306982
+KW  - Process control
+KW  - Scheduling of production
+KW  - Production planning
+KW  - Integrated planning and scheduling
+KW  - Integrated scheduling and control
+KW  - Feasibility analysis
+KW  - Supervised learning
+AB  - In this work, a framework for the integration of planning, scheduling and control using data-driven methodologies is proposed. The framework consists of addressing the integrated problem as a grey-box optimization problem, and using data-driven feasibility analysis and surrogate models to approximate the unknown black-box constraints. We follow a systematic procedure to achieve this integration, consisting of two building blocks: first, we address the integration of scheduling and control followed by the integration of planning and scheduling. To handle dimensionality issues, we introduce the concept of feature selection when building the surrogate models. The methodology is applied to the optimization of an enterprise of air separation plants.
+ER  - 
+
+TY  - JOUR
+T1  - Robust multi-proxy data integration, using late Cretaceous paleotemperature records as a case study
+AU  - Woelders, Lineke
+AU  - Vellekoop, Johan
+AU  - Weltje, Gert Jan
+AU  - de Nooijer, Lennart
+AU  - Reichart, Gert-Jan
+AU  - Peterse, Francien
+AU  - Claeys, Philippe
+AU  - Speijer, Robert P.
+JO  - Earth and Planetary Science Letters
+VL  - 500
+SP  - 215
+EP  - 224
+PY  - 2018
+DA  - 2018/10/15/
+SN  - 0012-821X
+DO  - https://doi.org/10.1016/j.epsl.2018.08.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0012821X18304692
+KW  - late Cretaceous
+KW  - paleotemperature
+KW  - multi-proxy
+KW  - data integration
+AB  - In paleoclimate studies, multiple temperature records are often compared and combined to evaluate temperature trends. Yet, no standardized approach for integrating proxy-derived paleotemperature records exists. In addition, paleotemperature data are often reported without uncertainty estimates (prediction errors), and raw data are not always available. This complicates the quantification of, for example, temperature trends and the magnitude of warming events. Here we propose a robust quantitative approach for multi-proxy analysis in paleoclimate studies. To demonstrate this, we study the latest Maastrichtian warming event (LMWE) in the ODP 174AX Bass River core (New Jersey), and integrate five independent paleotemperature proxies covering the last million years of the Cretaceous. Our integrated temperature reconstruction suggests that, after a climatically stable period, a latest Cretaceous warming of 3.9 ± 1.1 °C occurred between ∼450 and 100 kyr before the K–Pg boundary. The error on this reconstructed temperature should be considered the absolute minimum error, as poorly constrained or unknown uncertainties cannot be fully propagated. The warming event was followed by a gradual cooling to pre-warming conditions towards the end of the Cretaceous. Furthermore, the record suggests multiple warming pulses during the LMWE. The results of this integrated approach are consistent with other latest Cretaceous temperature records, suggesting that the trend described here represents a global signal.
+ER  - 
+
+TY  - JOUR
+T1  - Validation of patient identification in an HL7 messages integrator for health data monitoring and portability
+AU  - Nogueira, Ana Cláudia
+AU  - Oliveira, Raphael
+AU  - Cruz-Correia, Ricardo
+AU  - Vieira-Marquesa, Pedro
+JO  - Procedia Computer Science
+VL  - 164
+SP  - 670
+EP  - 677
+PY  - 2019
+DA  - 2019/01/01/
+T2  - CENTERIS 2019 - International Conference on ENTERprise Information Systems / ProjMAN 2019 - International Conference on Project MANagement / HCist 2019 - International Conference on Health and Social Care Information Systems and Technologies, CENTERIS/ProjMAN/HCist 2019
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2019.12.234
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050919322811
+KW  - Health Level Seven standard
+KW  - health information systems
+KW  - interoperability
+KW  - data quality
+KW  - data integration
+AB  - Introduction: In the healthcare sector, data quality is a critical aspect with high impact in the clinical care process. The quality of patient identification prevents misidentifications and lack of information. Methods: In this work we used an integration engine to receive, process and route HL7 messages. By analysing these messages, we can provide the means to overcome the heterogeneity present in existing health information systems data models and architecture. The aim of this work was to create a validation solution for patient identification using HL7 messages as source. The solution accepts a patient name and returns information about their quality. Results: A total of 1.048.576 messages were gathered and processed by the solution. The performed tests identified erroneous patient names (n=40.699) and also systematic errors caused by some health information systems. It also provided a method to increase the visibility of these problems, and act accordingly to correct them. Discussion: In a production environment, the tests performed confirmed the solution’s ability to identify common errors that happen across communications in a health institution network. Most common errors detected were related to the patient name field being used for other functions than those for which it was designed.
+ER  - 
+
+TY  - JOUR
+T1  - On the relationship between spline interpolation, sampling zeros and numerical integration in sampled-data models
+AU  - Sánchez, Claudia J.
+AU  - Yuz, Juan I.
+JO  - Systems & Control Letters
+VL  - 128
+SP  - 1
+EP  - 8
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 0167-6911
+DO  - https://doi.org/10.1016/j.sysconle.2019.04.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0167691119300556
+KW  - Sampled-data models
+KW  - Sampling zeros
+KW  - Splines
+KW  - Integration strategy
+KW  - Runge–Kutta methods
+AB  - Real systems are usually modeled in continuous-time by differential equations. In practice, however, we have to deal with them using discretized models and sampled data. These models, however, have more zeros than the continuous-time model. In this paper we show that there is a specific relation between these sampling zeros and the smoothness of the continuous-time input to the plant generated by a hold device using spline interpolation. On the other hand, in numerical analysis, ordinary differential equations are solved using numerical integration methods such as Runge–Kutta. In this paper we also characterize the asymptotic sampling zeros of approximate sampled-data models when using a Runge–Kutta method of a given order under uniform sampling and the input signal is obtained by spline interpolation. These results show the strong connections between the presence and characterization of sampling zeros, spline interpolation and numerical integration techniques. Moreover, the results presented in the paper provide additional insights about the impact of the details of the sampling process on the resulting discrete-time model.
+ER  - 
+
+TY  - JOUR
+T1  - Network-based integrative clustering of multiple types of genomic data using non-negative matrix factorization
+AU  - Chalise, Prabhakar
+AU  - Ni, Yonghui
+AU  - Fridley, Brooke L.
+JO  - Computers in Biology and Medicine
+VL  - 118
+SP  - 103625
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2020.103625
+UR  - http://www.sciencedirect.com/science/article/pii/S001048252030024X
+KW  - Integrative clustering
+KW  - Non-negative matrix factorization
+KW  - Cluster prediction index
+KW  - Network
+KW  - Silhouette width
+AB  - Identification of novel molecular subtypes of disease using multi-source ‘omics data is an active area of on-going research. Integrative clustering is a powerful approach to identify latent subtype structure inherent in the data sets accounting for both between and within data correlations. We propose a new integrative network-based clustering method using the non-negative matrix factorization, nNMF, for clustering multiple types of interrelated datasets assayed on same tumor-samples. nNMF utilizes the consensus matrices generated using the non-negative matrix factorization (NMF) algorithm on each type of data as networks among the patient samples. The multiple networks are then combined, and a comprehensive network structure is created optimizing the strengths of the relationships. A spectral clustering algorithm is then used on the final network data to determine the cluster groups. nNMF is a non-parametric method and therefore prior assumptions on the statistical distribution of data is not required. The application of the proposed nNMF method has been provided with simulated and the real-life datasets obtained from The Cancer Genome Atlas studies on glioblastoma, lower grade glioma and head and neck cancer. nNMF was found to be working competitively with previous methods and sometimes better as compared to previous NMF or model-based method especially when the signal to noise ratio is small. The novel nNMF method allows researchers to utilize such relationships to identify the latent subtype structure inherent in the data so that further association studies can be carried out. The R program for the nNMF will be available upon request.
+ER  - 
+
+TY  - JOUR
+T1  - Toward the Cross-Institutional Data Integration From Shibboleth Federated LMS
+AU  - Hamamoto, Nobukuni
+AU  - Ueda, Hiroshi
+AU  - Furukawa, Masako
+AU  - Nakamura, Motonori
+AU  - Nishimura, Takeshi
+AU  - Yokoyama, Shigetoshi
+AU  - Yamaji, Kazutsuna
+JO  - Procedia Computer Science
+VL  - 159
+SP  - 1720
+EP  - 1729
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Knowledge-Based and Intelligent Information & Engineering Systems: Proceedings of the 23rd International Conference KES2019
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2019.09.343
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050919315443
+KW  - data integration
+KW  - LMS
+KW  - Moodle
+KW  - Shibboleth
+KW  - ePTID
+AB  - Through this study, we aim to examine a method for data integration in shared Learning Management System (LMS) in authentication federation. We proposed a method of transmitting ePTID and learning data with user’s consent as a method for data integration across institutions. The method is compared with the other existing methods to realize the shared LMS. We discuss the suitable method for next version of GakuNinMoodle and conclude that our requirements are not fully satisfied by a single method.
+ER  - 
+
+TY  - JOUR
+T1  - Intelligent Approach for Heterogeneous Data Integration: Information Processes Analysis Engine in Clinical Remote Monitoring Systems
+AU  - Khovrichev, Mikhail
+AU  - Elkhovskaya, Liubov
+AU  - Fonin, Vladimir
+AU  - Balakhontceva, Marina
+JO  - Procedia Computer Science
+VL  - 156
+SP  - 134
+EP  - 141
+PY  - 2019
+DA  - 2019/01/01/
+T2  - 8th International Young Scientists Conference on Computational Science, YSC2019, 24-28 June 2019, Heraklion, Greece
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2019.08.188
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091931107X
+KW  - intelligent integration
+KW  - remote monitoring
+KW  - heterogeneous data
+KW  - value-based healthcare
+AB  - The paper presents a research project which aimed to design and develop an intelligent approach for the integration of heterogeneous data and knowledge sources in personalized healthcare. The integration profile we propose is mainly focused on remote monitoring of patients with arterial hypertension and chronic heart failure. This clarifies main temporal data used by event detection systems and limits it to systolic/diastolic pressure and heart rate. Our aim is to design and propose software component for such a system which makes it possible to reconstruct the whole remote monitoring and treatment process by connecting event logs. The analysis of the reconstructed process done by comparing with an expert system which contains different rules for monitoring/treatment process optimization.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Weighing of Electron Cryo-Microscopy Data for Integrative Structural Modeling
+AU  - Bonomi, Massimiliano
+AU  - Hanot, Samuel
+AU  - Greenberg, Charles H.
+AU  - Sali, Andrej
+AU  - Nilges, Michael
+AU  - Vendruscolo, Michele
+AU  - Pellarin, Riccardo
+JO  - Structure
+VL  - 27
+IS  - 1
+SP  - 175
+EP  - 188.e6
+PY  - 2019
+DA  - 2019/01/02/
+SN  - 0969-2126
+DO  - https://doi.org/10.1016/j.str.2018.09.011
+UR  - http://www.sciencedirect.com/science/article/pii/S096921261830337X
+KW  - cryo-electron microscopy
+KW  - integrative structural modeling
+KW  - bayesian inference
+KW  - macromolecular complexes
+KW  - structural biology
+KW  - cross-linking mass spectrometry
+KW  - data weighing
+KW  - Gaussian mixture model
+AB  - Summary
+Cryo-electron microscopy (cryo-EM) has become a mainstream technique for determining the structures of complex biological systems. However, accurate integrative structural modeling has been hampered by the challenges in objectively weighing cryo-EM data against other sources of information due to the presence of random and systematic errors, as well as correlations, in the data. To address these challenges, we introduce a Bayesian scoring function that efficiently and accurately ranks alternative structural models of a macromolecular system based on their consistency with a cryo-EM density map as well as other experimental and prior information. The accuracy of this approach is benchmarked using complexes of known structure and illustrated in three applications: the structural determination of the GroEL/GroES, RNA polymerase II, and exosome complexes. The approach is implemented in the open-source Integrative Modeling Platform (http://integrativemodeling.org), thus enabling integrative structure determination by combining cryo-EM data with other sources of information.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing a panel for early detection of lung adenocarcinoma by using data integration of genomics, epigenomics, transcriptomics and proteomics
+AU  - Haghjoo, Niloofar
+AU  - moeini, Ali
+AU  - Masoudi-Nejad, Ali
+JO  - Experimental and Molecular Pathology
+VL  - 112
+SP  - 104360
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0014-4800
+DO  - https://doi.org/10.1016/j.yexmp.2019.104360
+UR  - http://www.sciencedirect.com/science/article/pii/S0014480019301777
+KW  - Multi-omics data
+KW  - Integrative analysis
+KW  - Lung adenocarcinoma
+KW  - Diagnostic panel
+KW  - Prognostic panel
+KW  - Bipartite mRNA-miRNA bipartite network
+AB  - Lung Adenocarcinoma is one of the most leading causes of death worldwide. Early detection of this cancer could enhance the survival chance of patients and even lead to better and more effective treatment. One of the approaches to find out more about biological malfunctions is using “omics” data. Among diverse computational procedures, data integration is becoming a striking tool to deal with complicated diseases such as cancer, considering the defective and informative nature of each kind of “omics” data. Data integration as relates to lung adenocarcinoma can lead to finding molecular biomarkers that could solve early-stage detection and progression prediction alongside other screening technologies like low-dose spiral computed tomography. In the present study, we hypothesized that genes with multiple variations are essential to provoke lung adenocarcinoma and one may use them to predict tumor formation or even cancer development. We integrated the genomic, epigenomic, transcriptomic and proteomic data. Consequently, five genes were introduced and validated by different analyses including classification of patients and survival analysis. Furthermore, we constructed a bipartite mRNA-miRNA network to identify a set of miRNAs for further experimental analyses. Finally, a sensitive and specific diagnostic panel comprising CDKN2A, CX3CR1, COX4I2, SLC15A2 and TFRC genes were identified for early detection of Lung Adenocarcinoma.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of biosafety surveillance through Biosafety Surveillance Conceptual Data Model
+AU  - Wang, Songwang
+AU  - Li, Yangfei
+AU  - Chen, Qiang
+AU  - Feng, Xiaoyu
+AU  - Shi, Xiju
+AU  - Huang, Ying
+AU  - Mei, Li
+AU  - Li, Wei
+AU  - Liu, Haizhou
+AU  - Qi, Xiaopeng
+AU  - Liu, Di
+JO  - Biosafety and Health
+VL  - 1
+IS  - 2
+SP  - 98
+EP  - 104
+PY  - 2019
+DA  - 2019/09/01/
+SN  - 2590-0536
+DO  - https://doi.org/10.1016/j.bsheal.2019.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S259005361930028X
+KW  - Biosafety
+KW  - Conceptual data model
+KW  - Data integration
+KW  - Data standard
+AB  - The global movement of people and goods has increased the risk of biosecurity threats and their potential to induce large economic, social, and environmental harm. Integration of biosafety monitoring networks has become a top priority for addressing biosafety issues. In order to resolve the data standards and integration problems in the field of biosafety in China, the Biosafety Surveillance Conceptual Data Model (BSCDM), which is an object-oriented, hierarchically designed, flexible and scalable biosafety surveillance concept data model, is proposed in this article. This model is based on the integration of business process management and data resources of disease surveillance, animal disease surveillance and potential invasive biological monitoring. In reference to the Public Health Conceptual Data Model (PHCDM) and Federal Enterprise Architecture (FEA), BSCDM conducts a thorough analysis of biosafety monitoring activities, records basic information requirements of biosafety monitoring and provides data set standards for biosafety-related activities. It is developed with the Unified Modeling Language (UML) and could be applied as an open standard for accelerating data analysis and promoting collaboration. This study attempts to integrate biosafety monitoring data and the presented model has been tested in the detection of dengue fever in China and will be applied to other biosafety fields.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive Integration of Single-Cell Data
+AU  - Stuart, Tim
+AU  - Butler, Andrew
+AU  - Hoffman, Paul
+AU  - Hafemeister, Christoph
+AU  - Papalexi, Efthymia
+AU  - Mauck, William M.
+AU  - Hao, Yuhan
+AU  - Stoeckius, Marlon
+AU  - Smibert, Peter
+AU  - Satija, Rahul
+JO  - Cell
+VL  - 177
+IS  - 7
+SP  - 1888
+EP  - 1902
+PY  - 2019
+DA  - 2019/06/13/
+SN  - 0092-8674
+DO  - https://doi.org/10.1016/j.cell.2019.05.031
+UR  - http://www.sciencedirect.com/science/article/pii/S0092867419305598
+KW  - single cell
+KW  - integration
+KW  - multi-modal
+KW  - single-cell RNA sequencing
+KW  - scRNA-seq
+KW  - single-cell ATAC sequencing
+KW  - scATAC-seq
+AB  - Summary
+Single-cell transcriptomics has transformed our ability to characterize cell states, but deep biological understanding requires more than a taxonomic listing of clusters. As new methods arise to measure distinct cellular modalities, a key analytical challenge is to integrate these datasets to better understand cellular identity and function. Here, we develop a strategy to “anchor” diverse datasets together, enabling us to integrate single-cell measurements not only across scRNA-seq technologies, but also across different modalities. After demonstrating improvement over existing methods for integrating scRNA-seq data, we anchor scRNA-seq experiments with scATAC-seq to explore chromatin differences in closely related interneuron subsets and project protein expression measurements onto a bone marrow atlas to characterize lymphocyte populations. Lastly, we harmonize in situ gene expression and scRNA-seq datasets, allowing transcriptome-wide imputation of spatial gene expression patterns. Our work presents a strategy for the assembly of harmonized references and transfer of information across datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Sampled-data containment control for double-integrator agents with dynamic leaders with nonzero inputs
+AU  - Ding, Yong
+AU  - Ren, Wei
+JO  - Systems & Control Letters
+VL  - 139
+SP  - 104673
+PY  - 2020
+DA  - 2020/05/01/
+SN  - 0167-6911
+DO  - https://doi.org/10.1016/j.sysconle.2020.104673
+UR  - http://www.sciencedirect.com/science/article/pii/S0167691120300530
+KW  - Containment control
+KW  - Dynamic leaders
+KW  - Sampled-data setting
+KW  - Double-integrator dynamics
+AB  - The objective of containment control in multi-agent systems is to design control algorithms for the followers to converge to the convex hull spanned by the leaders. Sampled-data based containment control algorithms are suitable for the cases where the power supply and sensing capacity are limited, due to their low-cost and energy-saving features resulting from discrete sensing and interactions. In addition, sampled-data control has advantages in performance, price and generality. On the other hand, when the agents have double-integrator dynamics and the leaders are dynamic with nonzero inputs, the existing algorithms are not directly applicable in a sampled-data setting. To this end, this paper proposes a sampled-data based containment control algorithm for a group of double-integrator agents with dynamic leaders with nonzero inputs under directed communication networks. By applying the proposed control algorithm, the followers converge to the convex hull spanned by the dynamic leaders with bounded position and velocity containment control errors, and the ultimate bound of the overall containment error is proportional to the sampling period. A numerical simulation is presented to illustrate the proposed algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Revolution and rotation-based method for roadside LiDAR data integration
+AU  - Lv, Bin
+AU  - Xu, Hao
+AU  - Wu, Jianqing
+AU  - Tian, Yuan
+AU  - Tian, Sheng
+AU  - Feng, Suoyao
+JO  - Optics & Laser Technology
+VL  - 119
+SP  - 105571
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0030-3992
+DO  - https://doi.org/10.1016/j.optlastec.2019.105571
+UR  - http://www.sciencedirect.com/science/article/pii/S0030399219304669
+KW  - Revolution
+KW  - Rotation
+KW  - Roadside LiDAR
+KW  - Data Integration
+KW  - Connected Vehicles
+AB  - Recently, roadside LiDAR has been applied to different transportation areas. Data integration (point registration) for multiple LiDAR sensors is an important step to extend the data range and improve the density of scanned points. A challenge for the three-dimensional LiDAR is to find the corresponding features in different sensors. It is even unrealistic to identify the correspondences due to the different installation heights of LiDAR sensors. This paper proposes a generalized approach to integrate point clouds automatically based on a revolution and rotation-based method. The proposed method matches the ground points with an optimizing algorithm. The new approach was validated by the data collected in the real world. The testing results showed that the length error and width error of the proposed method were 13.26% and 13.15%, respectively. Compared to the state-of-the-art method, the proposed method has a higher level of automation and improved accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - Lack of potential carcinogenicity for acesulfame potassium – Systematic evaluation and integration of mechanistic data into the totality of the evidence
+AU  - Chappell, G.A.
+AU  - Wikoff, D.S.
+AU  - Doepker, C.L.
+AU  - Borghoff, S.J.
+JO  - Food and Chemical Toxicology
+VL  - 141
+SP  - 111375
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0278-6915
+DO  - https://doi.org/10.1016/j.fct.2020.111375
+UR  - http://www.sciencedirect.com/science/article/pii/S0278691520302635
+KW  - Acesulfame potassium
+KW  - Ace K
+KW  - Sweetener
+KW  - Carcinogenicity
+KW  - Key characteristic of carcinogens
+KW  - Mechanisms
+AB  - The safety of low- and no-calorie sweeteners remains a topic of general interest. Substantial evidence exists demonstrating a lack of carcinogenicity of the no-calorie sweetener acesulfame potassium (Ace K). The objective of this evaluation was to conduct a systematic assessment of available mechanistic data using a framework that quantitatively integrates proposed key characteristics of carcinogens (KCCs) into the totality of the evidence. Over 800 KCC-relevant endpoints from a variety of in vitro and in vivo assays were assessed for quality, relevance, and activity, and integrated to determine the overall strength of the evidence for plausibility that Ace K acts through the KCC. Overall, there was a lack of activity across the KCCs (overall integrated score <0 and no “strong” categorization for evidence of activity) in which data were identified. Together with the absence of treatment-related tumor effects in rodent bioassays, these results support the conclusion that Ace K is unlikely to induce a carcinogenic response. This assessment employed a weight of the evidence analysis that includes the consideration of factors such as reliability, strength of the model system, activity, and dose in a complex and heterogeneous dataset, and the ultimate integration of multiple data streams in the cancer hazard evaluation.
+ER  - 
+
+TY  - JOUR
+T1  - Network-based prioritization of cancer genes by integrative ranks from multi-omics data
+AU  - Shang, Haixia
+AU  - Liu, Zhi-Ping
+JO  - Computers in Biology and Medicine
+VL  - 119
+SP  - 103692
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2020.103692
+UR  - http://www.sciencedirect.com/science/article/pii/S0010482520300822
+KW  - Cancer gene prioritization
+KW  - Multi-omics data integration
+KW  - Multiplex networks
+KW  - Constrained PageRank
+AB  - Finding disease genes related to cancer is of great importance for diagnosis and treatment. With the development of high-throughput technologies, more and more multiple-level omics data have become available. Thus, it is urgent to develop computational methods to identify cancer genes by integrating these data. We propose an integrative rank-based method called iRank to prioritize cancer genes by integrating multi-omics data in a unified network-based framework. The method was used to identify the disease genes of hepatocellular carcinoma (HCC) in humans using the multi-omics data for HCC from TCGA after building up integrated networks in the corresponding molecular levels. The kernel of iRank is based on an improved PageRank algorithm with constraints. To demonstrate the validity and the effectiveness of the method, we performed experiments for comparison between single-level omics data and multiple omics data as well as with other algorithms: random walk (RW), random walk with restart on heterogeneous network (RWH), PRINCE and PhenoRank. We also performed a case study on another cancer, prostate adenocarcinoma (PRAD). The results indicate the effectiveness and efficiency of iRank which demonstrates the significance of integrating multi-omics data and multiplex networks in cancer gene prioritization.
+ER  - 
+
+TY  - JOUR
+T1  - Heterogeneous fuzzy XML data integration based on structural and semantic similarities
+AU  - Ma, Zongmin
+AU  - Zhao, Zhen
+AU  - Yan, Li
+JO  - Fuzzy Sets and Systems
+VL  - 351
+SP  - 64
+EP  - 89
+PY  - 2018
+DA  - 2018/11/15/
+T2  - Theme: Computer Science
+SN  - 0165-0114
+DO  - https://doi.org/10.1016/j.fss.2018.04.018
+UR  - http://www.sciencedirect.com/science/article/pii/S0165011418301660
+KW  - Heterogeneous data
+KW  - Integration
+KW  - Fuzzy XML
+KW  - Structural similarity
+KW  - Semantic similarity
+AB  - Web data integration has become a crucial requirement for Web data management. A considerable number of approaches for integrating Extensible Markup Language (XML) data from heterogeneous data sources have been proposed. Yet these existing approaches are not fit for integration of fuzzy XML data because of their fuzzy characteristics. In this article, we provide a framework to deal with fuzzy XML document integration. Firstly, we propose a new fuzzy XML tree model. Secondly, we present an effective algorithm based on the tree edit distance to identify the structural and semantic similarities between the fuzzy documents represented in the proposed fuzzy XML tree model. Thirdly, we propose an integration strategy that is applied to integrate the fuzzy documents from different data sources. Finally, we conduct experiments to demonstrate that our approach can efficiently integrate fuzzy XML documents.
+ER  - 
+
+TY  - CHAP
+T1  - Multiple Omics Data Integration
+AU  - Qin, Guangrong
+AU  - Liu, Zhenhao
+AU  - Xie, Lu
+BT  - Reference Module in Biomedical Sciences
+PB  - Elsevier
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 978-0-12-801238-3
+DO  - https://doi.org/10.1016/B978-0-12-801238-3.11508-9
+UR  - http://www.sciencedirect.com/science/article/pii/B9780128012383115089
+KW  - Biomarker discovery
+KW  - Driver detection
+KW  - Epigenome
+KW  - Genome
+KW  - Integration strategies
+KW  - Integration tools
+KW  - Metabolome
+KW  - Multiple dimension contribution
+KW  - Multiple level regulation
+KW  - Multiple omics
+KW  - Proteome
+KW  - Sequential strategy
+KW  - Simultaneous strategy
+KW  - Transcriptome
+KW  - Tumor subtyping
+AB  - With the rapid development of next generation sequencing and mass spectrometry based high throughput technologies, large scale multiple omics data for the same cohorts of patients are accumulated. Genome, epigenome, transcriptome, proteome and metabolome are widely measured for the investigation of disease models. A comprehensive biological model can be generated only when different levels of genetic flow information are considered, because meaningful integration of omics data can compensate for missing interaction links, bring more evidence to a point of biological interest. Current representative multiple omics integration methods may be classified under two hypotheses: multiple level regulation and multiple dimension contribution. Following the two hypotheses, sequential integration and simultaneous integration strategies are viewed, within each strategy dozens of computational methods have been developed to integrate multiple omics data for different biological goals.
+ER  - 
+
+TY  - JOUR
+T1  - Data integration through brain atlasing: Human Brain Project tools and strategies
+AU  - Bjerke, Ingvild E.
+AU  - Øvsthus, Martin
+AU  - Papp, Eszter A.
+AU  - Yates, Sharon C.
+AU  - Silvestri, Ludovico
+AU  - Fiorilli, Julien
+AU  - Pennartz, Cyriel M.A.
+AU  - Pavone, Francesco S.
+AU  - Puchades, Maja A.
+AU  - Leergaard, Trygve B.
+AU  - Bjaalie, Jan G.
+JO  - European Psychiatry
+VL  - 50
+SP  - 70
+EP  - 76
+PY  - 2018
+DA  - 2018/04/01/
+T2  - Workshop on Schizophrenia and other mental disorders - S. Frangou (Editor in Chief), A. Del Guerra, S. Galderisi (Guest Editors)
+SN  - 0924-9338
+DO  - https://doi.org/10.1016/j.eurpsy.2018.02.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0924933818300403
+KW  - Brain atlasing
+KW  - Data integration
+KW  - Neuroinformatics
+AB  - The Human Brain Project (HBP), an EU Flagship Initiative, is currently building an infrastructure that will allow integration of large amounts of heterogeneous neuroscience data. The ultimate goal of the project is to develop a unified multi-level understanding of the brain and its diseases, and beyond this to emulate the computational capabilities of the brain. Reference atlases of the brain are one of the key components in this infrastructure. Based on a new generation of three-dimensional (3D) reference atlases, new solutions for analyzing and integrating brain data are being developed. HBP will build services for spatial query and analysis of brain data comparable to current online services for geospatial data. The services will provide interactive access to a wide range of data types that have information about anatomical location tied to them. The 3D volumetric nature of the brain, however, introduces a new level of complexity that requires a range of tools for making use of and interacting with the atlases. With such new tools, neuroscience research groups will be able to connect their data to atlas space, share their data through online data systems, and search and find other relevant data through the same systems. This new approach partly replaces earlier attempts to organize research data based only on a set of semantic terminologies describing the brain and its subdivisions.
+ER  - 
+
+TY  - JOUR
+T1  - The role of social integration in the adverse effect of unemployment on mental health – Testing the causal pathway and buffering hypotheses using panel data
+AU  - Krug, Gerhard
+AU  - Prechsl, Sebastian
+JO  - Social Science Research
+VL  - 86
+SP  - 102379
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0049-089X
+DO  - https://doi.org/10.1016/j.ssresearch.2019.102379
+UR  - http://www.sciencedirect.com/science/article/pii/S0049089X19300638
+KW  - Unemployment
+KW  - Mental health
+KW  - Social integration
+KW  - Social support
+KW  - Social networks
+KW  - Moderation
+KW  - Mediation
+KW  - Panel data
+KW  - Causal path
+KW  - Buffering
+AB  - Social integration is considered crucially important for understanding the adverse effect of unemployment on mental health. Social integration is assumed to either bring about the health effects of unemployment (causal pathway hypothesis) or shield the unemployed from such effects (buffering hypothesis). However, there is scarce empirical evidence, especially based on panel data, regarding these two hypotheses. In our analysis, we use up to ten waves of the “Labour Market and Social Security” (PASS) German panel study and apply fixed effects panel regressions to account for unobserved confounders. We test several indicators that cover different aspects of social integration (numbers of strong and weak ties, conflict in the household, employed friends, general and job search-specific social support). We find no empirical support for the causal pathway hypothesis and only very limited support for the buffering hypothesis.
+ER  - 
+
+TY  - JOUR
+T1  - Lack of potential carcinogenicity for sucralose – Systematic evaluation and integration of mechanistic data into the totality of the evidence
+AU  - Chappell, G.A.
+AU  - Borghoff, S.J.
+AU  - Pham, L.L.
+AU  - Doepker, C.L.
+AU  - Wikoff, D.S.
+JO  - Food and Chemical Toxicology
+VL  - 135
+SP  - 110898
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0278-6915
+DO  - https://doi.org/10.1016/j.fct.2019.110898
+UR  - http://www.sciencedirect.com/science/article/pii/S027869151930688X
+KW  - Sucralose
+KW  - Mechanisms
+KW  - Key characteristics of carcinogens
+KW  - Weight of evidence
+KW  - Cancer
+KW  - Sweeteners
+AB  - Sucralose is widely used as a sugar substitute. Many studies and authoritative reviews have concluded that sucralose is non-carcinogenic, based primarily on animal cancer bioassays and genotoxicity data. To add to the body of knowledge on the potential carcinogenicity of sucralose, a systematic assessment of mechanistic data was conducted. This entailed using a framework developed for the quantitative integration of data related to the proposed key characteristics of carcinogens (KCCs). Data from peer-reviewed literature and the ToxCast/Tox21 database were evaluated using an algorithm that weights data for quality and relevance. The resulting integration demonstrated an overall lack of activity for sucralose across the KCCs, with no “strong” activity observed for any KCC. Almost all data collected demonstrated inactivity, including those conducted in human models. The overall lack of activity in mechanistic data is consistent with findings from animal cancer bioassays. The few instances of activity across the KCC were generally accompanied by limitations in study design in the context of either quality and/or dose and model relevance, highlighted upon integration of the totality of the evidence. The findings from this comprehensive and integrative evaluation of mechanistic data support prior conclusions that sucralose is unlikely to be carcinogenic in humans.
+ER  - 
+
+TY  - JOUR
+T1  - An improved data integration algorithm to constrain the 3D displacement field induced by fast deformation phenomena tested on the Napa Valley earthquake
+AU  - Polcari, Marco
+AU  - Fernández, José
+AU  - Albano, Matteo
+AU  - Bignami, Christian
+AU  - Palano, Mimmo
+AU  - Stramondo, Salvatore
+JO  - Computers & Geosciences
+VL  - 109
+SP  - 206
+EP  - 215
+PY  - 2017
+DA  - 2017/12/01/
+SN  - 0098-3004
+DO  - https://doi.org/10.1016/j.cageo.2017.09.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0098300417301681
+KW  - SAR Interferometry (InSAR)
+KW  - Global positioning system (GNSS)
+KW  - Multiple Aperture Interferometry (MAI)
+KW  - Pixel Offset Tracking (POT)
+KW  - Data integration algorithm
+KW  - Napa earthquake
+AB  - In this work, we propose an improved algorithm to constrain the 3D ground displacement field induced by fast surface deformations due to earthquakes or landslides. Based on the integration of different data, we estimate the three displacement components by solving a function minimization problem from the Bayes theory. We exploit the outcomes from SAR Interferometry (InSAR), Global Positioning System (GNSS) and Multiple Aperture Interferometry (MAI) to retrieve the 3D surface displacement field. Any other source of information can be added to the processing chain in a simple way, being the algorithm computationally efficient. Furthermore, we use the intensity Pixel Offset Tracking (POT) to locate the discontinuity produced on the surface by a sudden deformation phenomenon and then improve the GNSS data interpolation. This approach allows to be independent from other information such as in-situ investigations, tectonic studies or knowledge of the data covariance matrix. We applied such a method to investigate the ground deformation field related to the 2014 Mw 6.0 Napa Valley earthquake, occurred few kilometers from the San Andreas fault system.
+ER  - 
+
+TY  - JOUR
+T1  - Data integration for offshore decommissioning waste management
+AU  - Akinyemi, A.G.
+AU  - Sun, M.
+AU  - Gray, A.J.G.
+JO  - Automation in Construction
+VL  - 109
+SP  - 103010
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2019.103010
+UR  - http://www.sciencedirect.com/science/article/pii/S0926580518304059
+KW  - Data integration
+KW  - Offshore decommissioning
+KW  - ISO 15926
+KW  - Semantic Web
+KW  - Reuse
+AB  - Offshore decommissioning represents significant business opportunities for oil and gas service companies. However, for owners of offshore assets and regulators, it is a liability because of the associated costs. One way of mitigating decommissioning costs is through the sales and reuse of decommissioned items. To achieve this effectively, reliability assessment of decommissioned items is required. Such an assessment relies on data collected on the various items over the lifecycle of an engineering asset. Considering that offshore platforms have a design life of about 25 years and data management techniques and tools are constantly evolving, data captured about items to be decommissioned will be in varying forms. In addition, considering the many stakeholders involved with a facility over its lifecycle, information representation of the items will have variations. These challenges make data integration difficult. As a result, this research developed a data integration framework that makes use of Semantic Web technologies and ISO 15926 - a standard for process plant data integration - for rapid assessment of decommissioned items. The proposed solution helps in determining the reuse potential of decommissioned items, which can save on cost and benefit the environment.
+ER  - 
+
+TY  - JOUR
+T1  - A powerful method to integrate genotype and gene expression data for dissecting the genetic architecture of a disease
+AU  - Das, Sarmistha
+AU  - Majumder, Partha Pratim
+AU  - Chatterjee, Raghunath
+AU  - Chatterjee, Aditya
+AU  - Mukhopadhyay, Indranil
+JO  - Genomics
+VL  - 111
+IS  - 6
+SP  - 1387
+EP  - 1394
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0888-7543
+DO  - https://doi.org/10.1016/j.ygeno.2018.09.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0888754318301770
+KW  - GWAS
+KW  - Multi-locus association test
+KW  - Latent variable
+KW  - Data integration
+AB  - To decipher the genetic architecture of human disease, various types of omics data are generated. Two common omics data are genotypes and gene expression. Often genotype data for a large number of individuals and gene expression data for a few individuals are generated due to biological and technical reasons, leading to unequal sample sizes for different omics data. Unavailability of standard statistical procedure for integrating such datasets motivates us to propose a two-step multi-locus association method using latent variables. Our method is powerful than single/separate omics data analysis and it unravels comprehensively deep-seated signals through a single statistical model. Extensive simulation confirms that it is robust to various genetic models as its power increases with sample size and number of associated loci. It provides p-values very fast. Application to real dataset on psoriasis identifies 17 novel SNPs, functionally related to psoriasis-associated genes, at much smaller sample size than standard GWAS.
+ER  - 
+
+TY  - JOUR
+T1  - Biological insights through omics data integration
+AU  - Noor, Elad
+AU  - Cherkaoui, Sarah
+AU  - Sauer, Uwe
+JO  - Current Opinion in Systems Biology
+VL  - 15
+SP  - 39
+EP  - 47
+PY  - 2019
+DA  - 2019/06/01/
+T2  - Gene regulation
+SN  - 2452-3100
+DO  - https://doi.org/10.1016/j.coisb.2019.03.007
+UR  - http://www.sciencedirect.com/science/article/pii/S2452310019300125
+KW  - Multiomics
+KW  - Data integration
+KW  - Machine learning
+KW  - Knowledge-based approaches
+KW  - Data-driven approaches
+AB  - The number of studies that collect and publish large-scale multiomics data is rapidly increasing. So far, we have not realized the full potential of the biological insights that can be drawn from integrating these data. In this review, we present the different existing approaches for such multiomics integration and highlight innovative articles that present new methods or biological insights. We claim that the difficulty in scaling remains one of the main reasons for the underuse of dynamic mechanistic models and discuss the potential of machine learning to disrupt this scientific field as it has done for many others.
+ER  - 
+
+TY  - JOUR
+T1  - Integrative approaches to reconstruct regulatory networks from multi-omics data: A review of state-of-the-art methods
+AU  - Wani, Nisar
+AU  - Raza, Khalid
+JO  - Computational Biology and Chemistry
+VL  - 83
+SP  - 107120
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 1476-9271
+DO  - https://doi.org/10.1016/j.compbiolchem.2019.107120
+UR  - http://www.sciencedirect.com/science/article/pii/S1476927118305577
+KW  - Network inference
+KW  - Data integration
+KW  - Regulatory networks
+KW  - Transcription factor
+KW  - Gene expression
+AB  - Data generation using high throughput technologies has led to the accumulation of diverse types of molecular data. These data have different types (discrete, real, string, etc.) and occur in various formats and sizes. Datasets including gene expression, miRNA expression, protein–DNA binding data (ChIP-Seq/ChIP-ChIP), mutation data (copy number variation, single nucleotide polymorphisms), annotations, interactions, and association data are some of the commonly used biological datasets to study various cellular mechanisms of living organisms. Each of them provides a unique, complementary and partly independent view of the genome and hence embed essential information about the regulatory mechanisms of genes and their products. Therefore, integrating these data and inferring regulatory interactions from them offer a system level of biological insight in predicting gene functions and their phenotypic outcomes. To study genome functionality through regulatory networks, different methods have been proposed for collective mining of information from an integrated dataset. We survey here integration methods that reconstruct regulatory networks using state-of-the-art techniques to handle multi-omics (i.e., genomic, transcriptomic, proteomic) and other biological datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Improved PM2.5 predictions of WRF-Chem via the integration of Himawari-8 satellite data and ground observations
+AU  - Hong, Jia
+AU  - Mao, Feiyue
+AU  - Min, Qilong
+AU  - Pan, Zengxin
+AU  - Wang, Wei
+AU  - Zhang, Tianhao
+AU  - Gong, Wei
+JO  - Environmental Pollution
+VL  - 263
+SP  - 114451
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0269-7491
+DO  - https://doi.org/10.1016/j.envpol.2020.114451
+UR  - http://www.sciencedirect.com/science/article/pii/S0269749119334955
+KW  - Data assimilation
+KW  - Air quality forecast
+KW  - Remote sensing
+KW  - WRF-Chem
+KW  - GOCART
+AB  - The new-generation geostationary satellites feature higher radiometric, spectral, and spatial resolutions, thereby making richer data available for the improvement of PM2.5 predictions. Various aerosol optical depth (AOD) data assimilation methods have been developed, but the accurate representation of the AOD-PM2.5 relationship remains challenging. Empirical statistical methods are effective in retrieving ground-level PM2.5, but few have been evaluated in terms of whether and to what extent they can help improve PM2.5 predictions. Therefore, an empirical and statistics-based scheme was developed for optimizing the estimation of the initial conditions (ICs) of aerosol in WRF-Chem (Weather Research and Forecasting/Chemistry) and for improving the PM2.5 predictions by integrating Himawari-8 data and ground observations. The proposed method was evaluated via two one-year experiments that were conducted in parallel over eastern China. The contribution of the satellite data to the model performance was evaluated via a 2-week control experiment. The results demonstrate that the proposed method improved the PM2.5 predictions throughout the year and mitigated the underestimation during pollution episodes. Spatially, the performance was highly correlated with the amount of valid data.
+ER  - 
+
+TY  - JOUR
+T1  - Open-source data-driven urban land-use mapping integrating point-line-polygon semantic objects: A case study of Chinese cities
+AU  - Zhong, Yanfei
+AU  - Su, Yu
+AU  - Wu, Siqi
+AU  - Zheng, Zhendong
+AU  - Zhao, Ji
+AU  - Ma, Ailong
+AU  - Zhu, Qiqi
+AU  - Ye, Richen
+AU  - Li, Xiaoman
+AU  - Pellikka, Petri
+AU  - Zhang, Liangpei
+JO  - Remote Sensing of Environment
+VL  - 247
+SP  - 111838
+PY  - 2020
+DA  - 2020/09/15/
+SN  - 0034-4257
+DO  - https://doi.org/10.1016/j.rse.2020.111838
+UR  - http://www.sciencedirect.com/science/article/pii/S003442572030208X
+KW  - Urban land-use mapping
+KW  - Semantic objects
+KW  - Scene classification
+KW  - Rule-based category mapping
+KW  - Enhanced deep adaptation network
+KW  - Very high resolution remote sensing imagery
+KW  - Multi-source geospatial data
+AB  - Reliable urban land-use maps are essential for urban analysis because the spatial distribution of land use reflects the complex environment of cities under the combined effects of nature and socio-economics. In recent years, very high resolution (VHR) remote sensing imagery interpretation has resolved the “semantic gap” between the low-level data and the high-level semantic scenes, and has been used to map urban land use. Nevertheless, the existing frameworks cannot easily be applied to practical urban analysis, which can be attributed to three main reasons: 1) the indistinguishable socio-economic attributes of the same ground object layouts; 2) the weak transferability of the supervised frameworks and the time-consuming training sample annotation; and 3) the category system inconsistency between the data source and the urban land-use application. In this paper, to achieve an “application gap” breakthrough for urban land-use mapping, a data-driven point, line, and polygon semantic object mapping (PLPSOM) framework is proposed, which makes full use of open-source VHR images and multi-source geospatial data. In the PLPSOM framework, point, line, and polygon semantic objects are represented by the points of interest (POIs), OpenStreetMap (OSM) data, and VHR images corresponding to the scenes in the land-use mapping units, respectively. OSM line semantic objects are utilized to supply the boundaries of the land-use mapping units for the POIs and VHR images, forming urban land parcels (street blocks). To reduce the cost of the data annotation, the training dataset is constructed using multiple open-source data sources. An enhanced deep adaptation network (EDAN) is then proposed to acquire the categories of the VHR scene images in the case of partial transfer learning. Finally, in order to meet the actual needs, a rule-based category mapping (RCM) model is applied to integrate the categories of the POIs and VHR images into the urban land-use category system, allowing us to acquire the land-use maps of the cities. The effectiveness of the proposed method was tested in four cities of China, including six specific areas: Beijing and Wuhan city centers; the Hanyang District of Wuhan; the Hannan District of Wuhan; Macao; and the Wan Chai area of Hong Kong, achieving a high classification accuracy. The “urban image” analysis confirmed the practicality of the obtained urban land-use maps.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating program and algorithm visualisation for learning data structure implementation
+AU  - Nathasya, Rossevine Artha
+AU  - Karnalim, Oscar
+AU  - Ayub, Mewati
+JO  - Egyptian Informatics Journal
+VL  - 20
+IS  - 3
+SP  - 193
+EP  - 204
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 1110-8665
+DO  - https://doi.org/10.1016/j.eij.2019.05.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1110866518302603
+KW  - Educational tool
+KW  - Program visualisation
+KW  - Algorithm visualisation
+KW  - Data structure
+KW  - Computer science education
+AB  - Algorithm Visualisation (AV) tool is commonly used to learn data structures. However, since that tool does not address technical details, some students may not know how to implement the data structures. This paper integrates the AV tool with Program Visualisation (PV) tool to help the students understanding the data structures’ implementation. The integration (which is implemented as a tool named DS-PITON) works similarly as a PV tool except that the data structures are visualised with the AV tool. Through quasi experiments, it can be stated that DS-PITON helps students to get better assessment score and to complete their assessment faster (even though the impact on completion time can work in reverse on slow-paced students). Further, according to a questionnaire survey, the students believe that DS-PITON helps them learning data structure materials.
+ER  - 
+
+TY  - JOUR
+T1  - An integration-oriented ontology to govern evolution in Big Data ecosystems
+AU  - Nadal, Sergi
+AU  - Romero, Oscar
+AU  - Abelló, Alberto
+AU  - Vassiliadis, Panos
+AU  - Vansummeren, Stijn
+JO  - Information Systems
+VL  - 79
+SP  - 3
+EP  - 19
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Special issue on DOLAP 2017: Design, Optimization, Languages and Analytical Processing of Big Data
+SN  - 0306-4379
+DO  - https://doi.org/10.1016/j.is.2018.01.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0306437917304660
+KW  - Data integration
+KW  - Evolution
+KW  - Semantic web
+AB  - Big Data architectures allow to flexibly store and process heterogeneous data, from multiple sources, in their original format. The structure of those data, commonly supplied by means of REST APIs, is continuously evolving. Thus data analysts need to adapt their analytical processes after each API release. This gets more challenging when performing an integrated or historical analysis. To cope with such complexity, in this paper, we present the Big Data Integration ontology, the core construct to govern the data integration process under schema evolution by systematically annotating it with information regarding the schema of the sources. We present a query rewriting algorithm that, using the annotated ontology, converts queries posed over the ontology to queries over the sources. To cope with syntactic evolution in the sources, we present an algorithm that semi-automatically adapts the ontology upon new releases. This guarantees ontology-mediated queries to correctly retrieve data from the most recent schema version as well as correctness in historical queries. A functional and performance evaluation on real-world APIs is performed to validate our approach.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating data analysis into an introductory macroeconomics course
+AU  - Wolfe, Marketa Halova
+JO  - International Review of Economics Education
+VL  - 33
+SP  - 100176
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 1477-3880
+DO  - https://doi.org/10.1016/j.iree.2020.100176
+UR  - http://www.sciencedirect.com/science/article/pii/S1477388020300037
+KW  - Data analysis
+KW  - FRED
+KW  - GeoFRED
+KW  - Introduction to macroeconomics
+KW  - Flipped classroom
+KW  - Team-based learning
+AB  - Data analysis and applying knowledge to real-world settings rank among key skills of college graduates. This paper shows how to completely integrate data analysis and application of knowledge to real-world settings into an introductory macroeconomics course. Every class meeting is structured as a series of activities that students work through using free, publicly available data. Time can be allotted to these activities during class because the course takes advantage of two previously documented active learning pedagogies (flipped classroom and team-based learning). Students benefit by gaining data analysis skills, applying knowledge to real-world settings, digging deeper into the material and contentious topics, and learning that results from combining the data analysis approach with the active learning approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Fog-IBDIS: Industrial Big Data Integration and Sharing with Fog Computing for Manufacturing Systems
+AU  - Wang, Junliang
+AU  - Zheng, Peng
+AU  - Lv, Youlong
+AU  - Bao, Jingsong
+AU  - Zhang, Jie
+JO  - Engineering
+VL  - 5
+IS  - 4
+SP  - 662
+EP  - 670
+PY  - 2019
+DA  - 2019/08/01/
+SN  - 2095-8099
+DO  - https://doi.org/10.1016/j.eng.2018.12.013
+UR  - http://www.sciencedirect.com/science/article/pii/S2095809918304910
+KW  - Fog computing
+KW  - Industrial big data
+KW  - Integration
+KW  - Manufacturing system
+AB  - Industrial big data integration and sharing (IBDIS) is of great significance in managing and providing data for big data analysis in manufacturing systems. A novel fog-computing-based IBDIS approach called Fog-IBDIS is proposed in order to integrate and share industrial big data with high raw data security and low network traffic loads by moving the integration task from the cloud to the edge of networks. First, a task flow graph (TFG) is designed to model the data analysis process. The TFG is composed of several tasks, which are executed by the data owners through the Fog-IBDIS platform in order to protect raw data privacy. Second, the function of Fog-IBDIS to enable data integration and sharing is presented in five modules: TFG management, compilation and running control, the data integration model, the basic algorithm library, and the management component. Finally, a case study is presented to illustrate the implementation of Fog-IBDIS, which ensures raw data security by deploying the analysis tasks executed by the data generators, and eases the network traffic load by greatly reducing the volume of transmitted data.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating QSAR models predicting acute contact toxicity and mode of action profiling in honey bees (A. mellifera): Data curation using open source databases, performance testing and validation
+AU  - Carnesecchi, Edoardo
+AU  - Toma, Cosimo
+AU  - Roncaglioni, Alessandra
+AU  - Kramer, Nynke
+AU  - Benfenati, Emilio
+AU  - Dorne, Jean Lou C.M.
+JO  - Science of The Total Environment
+VL  - 735
+SP  - 139243
+PY  - 2020
+DA  - 2020/09/15/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2020.139243
+UR  - http://www.sciencedirect.com/science/article/pii/S0048969720327601
+KW  - QSAR models
+KW  - Honey bees
+KW  - Mode of action
+KW  - Ecological risk assessment
+KW  - Chemical mixtures
+AB  - Honey bees (Apis mellifera) provide key ecosystem services as pollinators bridging agriculture, the food chain and ecological communities, thereby ensuring food production and security. Ecological risk assessment of single Plant Protection Products (PPPs) requires an understanding of the exposure and toxicity. In silico tools such as QSAR models can play a major role for the prediction of structural, physico-chemical and pharmacokinetic properties of chemicals as well as toxicity of single and multiple chemicals. Here, the first integrative honey bee QSAR model has been developed for PPPs using EFSA's OpenFoodTox, US-EPA ECOTOX and Pesticide Properties DataBase i) to predict acute contact toxicity (LD50) and ii) to profile the Mode of Action (MoA) of pesticides active substances. Three different classification-based and four regression-based models were developed and tested for their performance, thus identifying two models providing the most reliable predictions based on k-NN algorithm. The two-category QSAR model (toxic/non-toxic; n = 411) was validated using sensitivity (=0.93), specificity (=0.85), balanced accuracy (=0.90), and Matthews correlation coefficient (MCC = 0.78) as statistical parameters. The regression-based model (n = 113) was validated for its reliability and robustness (R2 = 0.74; MAE = 0.52). Current study proposes the MoA profiling for 113 pesticides active substances and the first harmonised MoA classification scheme for acute contact toxicity in honey bees, including LD50s data points from three different databases. The classification allows to further define MoAs and the target site of PPPs active substances, thus enabling regulators and scientists to refine chemical grouping and toxicity extrapolations for single chemicals and component-based mixture risk assessment of multiple chemicals. Relevant future perspectives are briefly addressed to integrate MoA, adverse outcome pathways (AOPs) and toxicokinetic information for the refinement of single-chemical/combined toxicity predictions and risk estimates at different levels of biological organization in the bee health context.
+ER  - 
+
+TY  - JOUR
+T1  - Use of biomarkers to evaluate the effects of environmental stressors on Mytilus galloprovincialis sampled along the Moroccan coasts: Integrating biological and chemical data
+AU  - El haimeur, Bouchra
+AU  - Bouhallaoui, Mina
+AU  - Zbiry, Mariama
+AU  - Elkhiati, Najat
+AU  - Talba, Sophia
+AU  - Sforzini, Susanna
+AU  - Viarengo, Aldo
+AU  - Benhra, Ali
+JO  - Marine Environmental Research
+VL  - 130
+SP  - 60
+EP  - 68
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 0141-1136
+DO  - https://doi.org/10.1016/j.marenvres.2017.05.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0141113617301411
+KW  - Lysosomal membrane stability
+KW  - Acetylcholinesterase
+KW  - Metallothionein
+KW  - Malondialdehyde
+KW  - Biomarker data integration
+KW  - 
+AB  - A biomonitoring study using wild Mytilus galloprovincialis mussels sampled from six sites along the Moroccan coasts evaluated whether select biomarkers are suitable for identifying and quantifying pollution-induced stress syndrome in mussels. Lysosomal membrane stability was confirmed to be a highly sensitive biological parameter, and acetylcholinesterase activity was found a suitable biomarker of neurotoxicity. Metallothionein concentrations were in line with heavy metal concentrations detected in mussel tissues. However, malondialdehyde was not sensitive, suggesting the need for alternative biomarkers of oxidative stress. Three different approaches were used for biomarker and chemical data integration. The Integrated Biomarker Response (IBR) was suitable for classifying the stress response but did not allow to evaluate the level of stress in the organisms. The Mussel Expert System (MES) was suitable for ranking the biological effects of pollutants, also providing an indication of the evolution of the stress syndrome in the animals. Finally, the use of Principal Component Analysis (PCA) provided indication of the inorganic chemicals contributing to the detrimental biological effects.
+ER  - 
+
+TY  - JOUR
+T1  - Automatic data integration from Moodle course logs to pivot tables for time series cross section analysis
+AU  - Dobashi, Konomu
+JO  - Procedia Computer Science
+VL  - 112
+SP  - 1835
+EP  - 1844
+PY  - 2017
+DA  - 2017/01/01/
+T2  - Knowledge-Based and Intelligent Information & Engineering Systems: Proceedings of the 21st International Conference, KES-20176-8 September 2017, Marseille, France
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.08.222
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050917316265
+KW  - time series
+KW  - cross section
+KW  - page views
+KW  - visualization
+KW  - educational data mining
+KW  - Moodle
+KW  - pivot table
+KW  - data integration
+AB  - This paper describes a data integration method for Moodle course logs and pivot table functions to analyze the behavior of students’ material page views in face-to-face blended learning using Moodle course materials. The developed method integrates the data with a pivot table by preprocessing Moodle course logs and generates a time series cross section (TSCS) table that visualizes the student’s course material page views. Experiments conducted on Moodle page views of actual materials collected during actual lessons found that the table visualizes both overall and individual viewpoints. Reactions to teacher instructions on course materials during class can also be visualized by the generated TSCS table. Moreover, because students who open course items late or do not open them can be identified clearly, the method can be used as a reference for improving future classes.
+ER  - 
+
+TY  - JOUR
+T1  - Usability and application of a data integration technique (following the thread) for multi- and mixed methods research: A systematic review
+AU  - Dupin, C.M.
+AU  - Borglin, G.
+JO  - International Journal of Nursing Studies
+VL  - 108
+SP  - 103608
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0020-7489
+DO  - https://doi.org/10.1016/j.ijnurstu.2020.103608
+UR  - http://www.sciencedirect.com/science/article/pii/S0020748920300936
+KW  - Analytic integration
+KW  - Mixed methods research
+KW  - Moran-Ellis
+KW  - Multimethod research
+KW  - Systematic review
+AB  - Background
+The scope of methodological development and innovation in multi- and mixed methods design is endless and, at times, challenging. The latter is especially true with regards to the integration of data generated through different methods. About a decade ago, Professor Jo Moran-Ellis and her colleagues at the University of Sussex suggested a framework for analytical integration known as “following a thread.” Despite an increased focus within health services research on different perspectives and approaches to successful data integration, the framework's usability and application have not yet been well described.
+Objectives
+This systematic review aims to integrate and synthesise published accounts of the framework and its applications.
+Design and data sources
+Seven electronic databases were utilised. Included were peer-reviewed scientific papers published in English from 2006 - 2018. The authors independently screened eligible publications by title and abstract.
+Results
+Thirteen studies were included in our systematic review. One notable finding is that in almost half of the cases (n = 6), the framework had been applied as an analytical integration framework in single studies using multiple qualitative methods. Overall, the descriptions and accounts of the framework were sparse and lacked transparency. Accounts of the analytical integration framework could be said to fall within three overarching areas: (1) applications of the framework, (2) justifications for analytical integration, and (3) benefits and shortfalls of the framework.
+Conclusion
+Data integration is often one of the major method steps in multi- and mixed methods designs. To further the future development of methodologically sound frameworks for analytical integration, it is essential that they are sufficiently described so as to ensure validation of the framework's usability and replicability. “Following a thread” appears to be an promising analytical integration framework, particularly in that it can be applied with the same datatypes as well as between different types of data.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities
+AU  - Zitnik, Marinka
+AU  - Nguyen, Francis
+AU  - Wang, Bo
+AU  - Leskovec, Jure
+AU  - Goldenberg, Anna
+AU  - Hoffman, Michael M.
+JO  - Information Fusion
+VL  - 50
+SP  - 71
+EP  - 91
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2018.09.012
+UR  - http://www.sciencedirect.com/science/article/pii/S1566253518304482
+KW  - Computational biology
+KW  - Personalized medicine
+KW  - Systems biology
+KW  - Heterogeneous data
+KW  - Machine learning
+AB  - New technologies have enabled the investigation of biology and human health at an unprecedented scale and in multiple dimensions. These dimensions include a myriad of properties describing genome, epigenome, transcriptome, microbiome, phenotype, and lifestyle. No single data type, however, can capture the complexity of all the factors relevant to understanding a phenomenon such as a disease. Integrative methods that combine data from multiple technologies have thus emerged as critical statistical and computational approaches. The key challenge in developing such approaches is the identification of effective models to provide a comprehensive and relevant systems view. An ideal method can answer a biological or medical question, identifying important features and predicting outcomes, by harnessing heterogeneous data across several dimensions of biological variation. In this Review, we describe the principles of data integration and discuss current methods and available implementations. We provide examples of successful data integration in biology and medicine. Finally, we discuss current challenges in biomedical integrative methods and our perspective on the future development of the field.
+ER  - 
+
+TY  - JOUR
+T1  - Categorical data integration for computational science
+AU  - Brown, Kristopher S.
+AU  - Spivak, David I.
+AU  - Wisnesky, Ryan
+JO  - Computational Materials Science
+VL  - 164
+SP  - 127
+EP  - 132
+PY  - 2019
+DA  - 2019/06/15/
+SN  - 0927-0256
+DO  - https://doi.org/10.1016/j.commatsci.2019.04.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0927025619302046
+KW  - Data integration
+KW  - Data migration
+KW  - Heterogeneous data
+KW  - Category theory
+KW  - Machine learning
+KW  - Density functional theory
+AB  - Categorical Query Language is an open-source query and data integration scripting language that can be applied to common challenges in the field of computational science. We discuss how the structure-preserving nature of CQL data migrations protect those who publicly share data from the misinterpretation of their data. Likewise, this feature of CQL migrations allows those who draw from public data sources to be sure only data which meets their specification will actually be transferred. We argue some open problems in the field of data sharing in computational science are addressable by working within this paradigm of functorial data migration. We demonstrate these tools by integrating data from the Open Quantum Materials Database with some alternative materials databases.
+ER  - 
+
+TY  - JOUR
+T1  - A semantic interoperability approach to support integration of gene expression and clinical data in breast cancer
+AU  - Alonso-Calvo, Raul
+AU  - Paraiso-Medina, Sergio
+AU  - Perez-Rey, David
+AU  - Alonso-Oset, Enrique
+AU  - van Stiphout, Ruud
+AU  - Yu, Sheng
+AU  - Taylor, Marian
+AU  - Buffa, Francesca
+AU  - Fernandez-Lozano, Carlos
+AU  - Pazos, Alejandro
+AU  - Maojo, Victor
+JO  - Computers in Biology and Medicine
+VL  - 87
+SP  - 179
+EP  - 186
+PY  - 2017
+DA  - 2017/08/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2017.06.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0010482517301695
+KW  - Clinical research informatics
+KW  - Semantic interoperability
+KW  - Data integration
+KW  - Diagnostic classifier
+KW  - Gene expressions
+KW  - Biomedical terminologies
+AB  - Introduction
+The introduction of omics data and advances in technologies involved in clinical treatment has led to a broad range of approaches to represent clinical information. Within this context, patient stratification across health institutions due to omic profiling presents a complex scenario to carry out multi-center clinical trials.
+Methods
+This paper presents a standards-based approach to ensure semantic integration required to facilitate the analysis of clinico-genomic clinical trials. To ensure interoperability across different institutions, we have developed a Semantic Interoperability Layer (SIL) to facilitate homogeneous access to clinical and genetic information, based on different well-established biomedical standards and following International Health (IHE) recommendations.
+Results
+The SIL has shown suitability for integrating biomedical knowledge and technologies to match the latest clinical advances in healthcare and the use of genomic information. This genomic data integration in the SIL has been tested with a diagnostic classifier tool that takes advantage of harmonized multi-center clinico-genomic data for training statistical predictive models.
+Conclusions
+The SIL has been adopted in national and international research initiatives, such as the EURECA-EU research project and the CIMED collaborative Spanish project, where the proposed solution has been applied and evaluated by clinical experts focused on clinico-genomic studies.
+ER  - 
+
+TY  - JOUR
+T1  - Electric Security Data Integration Framework based on Ontology Reasoning
+AU  - Liang, Liang
+JO  - Procedia Computer Science
+VL  - 139
+SP  - 583
+EP  - 587
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 6th International Conference on Information Technology and Quantitative Management
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2018.10.206
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050918318751
+KW  - security data integration
+KW  - ontology reasoning
+KW  - electric power system security
+AB  - Compared with ordinary information systems, power information systems are characterized by high complexity, strong real-time performance, high dynamics, and high-security requirements. The security-related data is varied. It is helpful to integrate the different types of data from multiple resources to support the further analysis such as abnormal detection or damage prediction. Considering the data complexity, this paper proposes a framework to automatically integrate security-related data in an electric system using ontology reasoning. In this paper, we try to determine the relationship between the ontology or between the local ontology and the global ontology through certain reasoning rules to help establish the data structure automatically. The experiment results demonstrate the effectiveness of the proposed method.
+ER  - 
+
+TY  - CHAP
+T1  - Data Integration and Transformation
+AU  - Calabrese, Barbara
+A2  - Ranganathan, Shoba
+A2  - Gribskov, Michael
+A2  - Nakai, Kenta
+A2  - Schönbach, Christian
+BT  - Encyclopedia of Bioinformatics and Computational Biology
+PB  - Academic Press
+CY  - Oxford
+SP  - 477
+EP  - 479
+PY  - 2019
+DA  - 2019/01/01/
+SN  - 978-0-12-811432-2
+DO  - https://doi.org/10.1016/B978-0-12-809633-8.20459-7
+UR  - http://www.sciencedirect.com/science/article/pii/B9780128096338204597
+KW  - Data integration
+KW  - Data transformation
+KW  - Data warehouse
+KW  - Database
+KW  - Discretization
+KW  - Network-based analysis
+KW  - Normalization
+KW  - Open data: Open sciences
+KW  - Standards
+AB  - Data integration and data transformation are two fundamental steps of preprocessing stage. Specifically, data integration can refer to the merging of (i) data from multiple data stores and/or (ii) different types of data generated with different omics technologies. Careful integration can help reduce and avoid redundancies and inconsistencies in the resulting data set. Data transformation is the process of converting data from one format to another. Because data often resides in different location and formats across the enterprise, data transformation is necessary to ensure data from one application or database is intelligible to another application and database. In the following contribution the main techniques for data integration and transformation are presented and discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive, efficient and effective graph data integration and search framework
+AU  - Reddy, Kuldeep
+JO  - Procedia Computer Science
+VL  - 151
+SP  - 1255
+EP  - 1260
+PY  - 2019
+DA  - 2019/01/01/
+T2  - The 10th International Conference on Ambient Systems, Networks and Technologies (ANT 2019) / The 2nd International Conference on Emerging Data and Industry 4.0 (EDI40 2019) / Affiliated Workshops
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2019.04.181
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050919306489
+KW  - data integration
+KW  - database usability
+KW  - query logs
+KW  - query suggestions
+KW  - graph data model
+KW  - visualization
+AB  - This paper proposes an idea for a new graph data integration and search system leveraging techniques of provenance, visualization and association rules. The graph data model, along with techniques of web data integration and database usability are central to the development of the web which provides motivation for this work. The overall proposed system consists of three components:a) Quality-aware graph visualization leveraging user feedback: we propose a solution to utilize user feedback on relevant portions of schema of graph database in graph sample selections so as to provide an adaptive way to choose graph samples via schemas in order to provide relevant quality-aware visualization later on and a solution based on statistical techniques of averages and heatmaps visualization in assigning color intensity to spatial positions of vertices and edges based on quality to allow the user to gauge the quality of graph datasets.b) Visualization-enabled graph alignment leveraging query logs: we propose a solution to utilize graph query logs along with run-time information of graph neighborhoods that led to graph alignment decisions in task of graph alignment so as to improve its effectiveness as well as a solution based on assigning spatial positions to graph vertices and edges based on graph similarity measures to allow the user to visually compare graph datasets during integration.c) Efficient batch generation of multiple graph query autocompletion suggestions: Techniques in literature typically make use of data clustering, data reduction, utilizing query logs to provide feedback and autocompletion suggestions to users during query formulation. As another solution with a focus on efficiency in context of graph datasets, we propose to leverage the fact that multiple queries may have many autocompletion suggestions in common and therefore propose an efficient algorithm to generate them together efficiently and show the performance improvement over the current sequential approach that involves repeated scans.
+ER  - 
+
+TY  - JOUR
+T1  - Big data integration and analytics to prevent a potential hospital outbreak of COVID-19 in Taiwan
+AU  - Chen, Fang-Ming
+AU  - Feng, Ming-Chu
+AU  - Chen, Tun-Chieh
+AU  - Hsieh, Min-Han
+AU  - Kuo, Shin-Huei
+AU  - Chang, Hsu-Liang
+AU  - Yang, Chih-Jen
+AU  - Chen, Yen-Hsu
+JO  - Journal of Microbiology, Immunology and Infection
+PY  - 2020
+DA  - 2020/04/20/
+SN  - 1684-1182
+DO  - https://doi.org/10.1016/j.jmii.2020.04.010
+UR  - http://www.sciencedirect.com/science/article/pii/S1684118220301043
+KW  - COVID-19
+KW  - Prevention strategies
+KW  - Big data integration and analytics
+ER  - 
+
+TY  - JOUR
+T1  - A model for integrating heterogeneous sensory data in IoT systems
+AU  - Cheng, Siyao
+AU  - Li, Yingshu
+AU  - Tian, Zhi
+AU  - Cheng, Wei
+AU  - Cheng, Xiuzhen
+JO  - Computer Networks
+VL  - 150
+SP  - 1
+EP  - 14
+PY  - 2019
+DA  - 2019/02/26/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2018.11.032
+UR  - http://www.sciencedirect.com/science/article/pii/S1389128618312982
+KW  - Heterogeneous
+KW  - Multi-Modal sensory data
+KW  - Internet of things
+KW  - Integration
+AB  - With the development of Internet of Things (IoT), heterogeneous sensory data appears everywhere in our lives. Unlike traditional sensory data, heterogeneous sensory data often involves variety modalities of data in one set, so that it is called as the multi-modal sensory data in this paper. The appearance of such data making it possible to monitor more complicated objects and improve monitoring accuracy. However, due to lack of integration model for multi-modal sensory data, most of the existing sensory data management algorithms only consider single modal sensory data, resulting in insufficient utilization of sensory data. Thus, we propose a model for integrating the heterogeneous sensory data generated in a IoT system based on Hidden Markov Process in the paper. The distributed algorithm for constructing such a model is then presented. The integration model can be applied to many applications, while we take the cooperative event detection as an example for illustration. The extensive theoretical analysis and experimental results show that all the proposed algorithms are efficient and effective .
+ER  - 
+
+TY  - JOUR
+T1  - Automating closed-loop structural safety management for bridge construction through multisource data integration
+AU  - Lin, Jia-Rui
+AU  - Zhang, Jian-Ping
+AU  - Zhang, Xiao-Yang
+AU  - Hu, Zhen-Zhong
+JO  - Advances in Engineering Software
+VL  - 128
+SP  - 152
+EP  - 168
+PY  - 2019
+DA  - 2019/02/01/
+SN  - 0965-9978
+DO  - https://doi.org/10.1016/j.advengsoft.2018.11.013
+UR  - http://www.sciencedirect.com/science/article/pii/S0965997818306689
+KW  - Structural safety
+KW  - Closed-loop management
+KW  - Information modeling
+KW  - Data integration
+KW  - Time-dependent structure
+AB  - Structural safety during construction is vital to engineering success of large scale bridges. However, difficulties in time-dependent structural modeling and data fragmentation of different engineering and management systems remain unresolved, hindering the plan, do, check, and adjust (PDCA) loop for structural safety management during bridge construction. In this paper, an integrated framework for closed-loop management of structural safety based on multisource data integration is presented. The proposed framework consists of a bridge safety information model (BrSIM), algorithms for data integration and semi-automatic time-dependent structural model generation, and methods for structural safety warning and assessment. The proposed BrSIM and algorithms integrate data related to 3D products, schedule, structural simulation and monitoring from various engineering systems, which covers the main data for structural safety management during construction. Meanwhile, automatic calculation and generation of static loads and constraints of a structural model based on 3D product information and monitoring data are also considered. Demonstration in the construction of a long-span bridge shows that with the proposed framework, it is possible to visualize the construction process, generate time-dependent structural models and simulate, monitor and assess the structural safety dynamically. Thus, the structural safety management loop is automated and fully closed. Furthermore, by tracking and simulating the changes of structural performance over time, and comparing the difference between simulation results and monitoring data, earlier detection and better evaluation of potential structural risks are achieved. Moreover, efficiency of information modeling and sharing is improved and effective management and decision-making are achieved with the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Supporting land data integration and standardization through the LADM standard: Case of Morocco’s country profile MA-LADM
+AU  - Adad, Moulay Abdeslam
+AU  - Semlali, El Hassane
+AU  - El-Ayachi, Moha
+AU  - Ibannain, Fatiha
+JO  - Land Use Policy
+VL  - 97
+SP  - 104762
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 0264-8377
+DO  - https://doi.org/10.1016/j.landusepol.2020.104762
+UR  - http://www.sciencedirect.com/science/article/pii/S026483771930033X
+KW  - Land domain
+KW  - LADM
+KW  - Conceptual data model
+KW  - LADM country profile
+KW  - MA-LADM
+KW  - 2d/3d+t representation
+KW  - Land governance
+KW  - Morocco
+AB  - The land sector in Morocco exhibits significant diversity of land status, stakeholders, administration functions, and methods. A number of public and private parties involved in land administration use a combination of administrative, technical, and legislative management instruments as well as both paper-based and digitized land information systems. These indicate the important social and economic value of Moroccan land and real estate for owners, users, and public agencies. This paper presents the modeling of the Moroccan land administration domain according to a specific ontological model of land governance, and the derivation of a country profile model MA-LADM from the base standard Land Administration Domain Model (LADM) ISO 19152: 2012. The profile aims to provide a common terminology for Moroccan land administration, to allow a shared description of different formal or informal practices and procedures, to integrate the various systems into force, and to allow land administration information to be combined from different sources. The profile's components originate totally or partially from the original elements of LADM or a specialized version that matches existing elements in Moroccan land models to facilitate comprehensive integration. This model investigates the three LADM packages: Party, Administrative and Spatial Unit, as well as the Surveying and Representation Subpackage. The 2d and 3d representations of spatial units are studied to support the Moroccan cadastral practices using LADM.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of big-data ERP and business analytics (BA)
+AU  - Shi, Zhengzhong
+AU  - Wang, Gang
+JO  - The Journal of High Technology Management Research
+VL  - 29
+IS  - 2
+SP  - 141
+EP  - 150
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 1047-8310
+DO  - https://doi.org/10.1016/j.hitech.2018.09.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1047831018300221
+KW  - Business analytics
+KW  - ERP
+KW  - Big data
+KW  - Maturity model
+KW  - Portfolio perspective
+KW  - Sustainable competitive advantages
+AB  - Technology advancements in cloud computing, big data systems, No-SQL database, cognitive systems, deep learning, and other artificial intelligence techniques make the integration of traditional ERP transaction data and big data streaming from various social media platforms and Internet of Things (IOTs) into a unified analytics system not only feasible but also inevitable. Two steps are prominent for this integration. The first, coined as forming the big-data ERP, is the integration of traditional ERP transaction data and the big data and the second is to integrate the big-data ERP with business analytics (BA). As ERP implementers and BA users are facing various challenges, managers responsible for this big-data ERP-BA integration are also seriously challenged. To help them deal with these challenges, we develop the SIST model (including Strategic alignment, Intellectual and Social capital integration, and Technology integration) and propose that this integration is an evolving portfolio with various maturity levels for different business functions, likely leading to sustainable competitive advantages.
+ER  - 
+
+TY  - JOUR
+T1  - A rule-based semantic approach for data integration, standardization and dimensionality reduction utilizing the UMLS: Application to predicting bariatric surgery outcomes
+AU  - Modaresnezhad, Minoo
+AU  - Vahdati, Ali
+AU  - Nemati, Hamid
+AU  - Ardestani, Ali
+AU  - Sadri, Fereidoon
+JO  - Computers in Biology and Medicine
+VL  - 106
+SP  - 84
+EP  - 90
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2019.01.019
+UR  - http://www.sciencedirect.com/science/article/pii/S0010482519300198
+KW  - Medical informatics
+KW  - Medical information systems
+KW  - Data integration
+KW  - Semantic integration
+KW  - UMLS
+KW  - Dimensionality reduction
+KW  - Machine learning
+KW  - Data standardization
+AB  - Utilization of existing clinical data for improving patient outcomes poses a number of challenging and complex problems involving lack of data integration, the absence of standardization across inhomogeneous data sources and computationally-demanding and time-consuming exploration of very large datasets. In this paper, we will present a robust semantic data integration, standardization and dimensionality reduction method to tackle and solve these problems. Our approach enables the integration of clinical data from diverse sources by resolving canonical inconsistencies and semantic heterogeneity as required by the National Library of Medicine's Unified Medical Language System (UMLS) to produce standardized medical data. Through a combined application of rule-based semantic networks and machine learning, our approach enables a large reduction in dimensionality of the data and thus allows for fast and efficient application of data mining techniques to large clinical datasets. An example application of the techniques developed in our study is presented for the prediction of bariatric surgery outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - A data integration platform for patient-centered e-healthcare and clinical decision support
+AU  - Jayaratne, Madhura
+AU  - Nallaperuma, Dinithi
+AU  - De Silva, Daswin
+AU  - Alahakoon, Damminda
+AU  - Devitt, Brian
+AU  - Webster, Kate E.
+AU  - Chilamkurti, Naveen
+JO  - Future Generation Computer Systems
+VL  - 92
+SP  - 996
+EP  - 1008
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.07.061
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X17308142
+KW  - Data integration
+KW  - e-healthcare platform
+KW  - Patient-centered care
+KW  - Clinical decision-support
+KW  - Participatory medicine
+AB  - The proliferation of disconnected information systems accumulating increasing volumes of heterogeneous data is a formidable challenge in the healthcare domain. It is necessary to address this challenge as the entire domain gradually transitions into e-healthcare and patient-centered healthcare delivery models. The lack of data integration at systems level prohibits clinicians from building a comprehensive understanding of the patient condition and further deprives patients of developing a holistic awareness of their medical conditions. In this paper, we propose an open data integration platform for patient, clinical, medical and historical data siloed across multiple health information systems. As an open platform, it can accommodate and integrate further heterogeneous data sources such as data streams generated by wearable IoT devices. As an integration platform, it facilitates the centralization of data assets. This centralization empowers every stakeholder in a patient-centered care setting to actively participate in decision-making. A range of analytics and reporting solutions, such as data warehouse, interactive dashboards, and predictive analytics tools, can be deployed upon this open data integration platform. The proposed platform is currently being adapted and implemented to address patient-centered healthcare and clinical decision support requirements in a sports injury clinic at a not-for-profit private hospital in Melbourne, Australia. Use Case based demonstration of the platform’s suitability for holistic information management, decision support, and predictive analytics justify its role in the advancement of e-healthcare.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of population census and water point mapping data—A case study of Cambodia, Liberia and Tanzania
+AU  - Yu, Weiyu
+AU  - Wardrop, Nicola A.
+AU  - Bain, Robert
+AU  - Wright, Jim A.
+JO  - International Journal of Hygiene and Environmental Health
+VL  - 220
+IS  - 5
+SP  - 888
+EP  - 899
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 1438-4639
+DO  - https://doi.org/10.1016/j.ijheh.2017.04.006
+UR  - http://www.sciencedirect.com/science/article/pii/S1438463916305429
+KW  - Data integration
+KW  - Water point mapping
+KW  - Census
+KW  - WASH
+AB  - Sustainable Development Goal (SDG) 6 has expanded the Millennium Development Goals’ focus from improved drinking-water to safely managed water services. This expanded focus to include issues such as water quality requires richer monitoring data and potentially integration of datasets from different sources. Relevant data sets include water point mapping (WPM), the survey of boreholes, wells and other water points, census and household survey data. This study examined inconsistencies between population census and WPM datasets for Cambodia, Liberia and Tanzania, and identified potential barriers to integrating the two datasets to meet monitoring needs. Literatures on numbers of people served per water point were used to convert WPM data to population served by water source type per area and compared with census reports. For Cambodia and Tanzania, discrepancies with census data suggested incomplete WPM coverage. In Liberia, where the data sets were consistent, WPM-derived data on functionality, quantity and quality of drinking water were further combined with census area statistics to generate an enhanced drinking-water access measure for protected wells and springs. The process revealed barriers to integrating census and WPM data, including exclusion of water points not used for drinking by households, matching of census and WPM source types; temporal mismatches between data sources; data quality issues such as missing or implausible data values, and underlying assumptions about population served by different water point technologies. However, integration of these two data sets could be used to identify and rectify gaps in WPM coverage. If WPM databases become more complete and the above barriers are addressed, it could also be used to develop more realistic measures of household drinking-water access for monitoring.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating the STOP-BANG score and clinical data to predict cardiovascular events after infarction: A machine learning study
+AU  - Calvillo-Argüelles, Oscar
+AU  - Sierra-Fernández, Carlos R.
+AU  - Padilla-Ibarra, Jorge
+AU  - Rodriguez-Zanella, Hugo
+AU  - Balderas-Muñoz, Karla
+AU  - Arias-Mendoza, Maria Alexandra
+AU  - Martínez-Sánchez, Carlos
+AU  - Selmen-Chattaj, Sharon
+AU  - Dominguez-Mendez, Beatriz E.
+AU  - van der Harst, Pim
+AU  - Juarez-Orozco, Luis Eduardo
+JO  - Chest
+PY  - 2020
+DA  - 2020/04/25/
+SN  - 0012-3692
+DO  - https://doi.org/10.1016/j.chest.2020.03.074
+UR  - http://www.sciencedirect.com/science/article/pii/S0012369220307650
+KW  - Obstructive sleep apnea
+KW  - STOP-BANG score
+KW  - acute myocardial infarction
+KW  - cardiovascular events
+KW  - machine learning
+KW  - feature selection
+AB  - ABSTRACT
+Background
+Obstructive sleep apnea (OSA) conveys worse clinical outcomes in coronary artery disease patients. The STOP-BANG score is a simple tool that evaluates the risk of OSA and can be added to the large number of clinical variables and scores obtained during the management of myocardial infarction (MI) patients. Currently, machine learning (ML) is able to select and integrate numerous variables to optimize prediction tasks.
+Research Question
+Can the integration of STOP-BANG score with clinical data and scores through ML better identify patients who suffered an in-hospital cardiovascular event after acute MI?
+Study Design and Methods
+This is a prospective observational cohort study of 124 acute MI patients in which the STOP-BANG score classified 34 low-(27.4%), 30 intermediate-(24.2%), and 60 high-(48.4%) OSA-risk patients who were followed during hospitalization. ML implemented feature selection and integration across 47 variables (including STOP-BANG score, Killip-class, GRACE score and LVEF) to identify those patients who developed an in-hospital cardiovascular event (i.e. death, ventricular arrhythmias, atrial fibrillation, recurrent angina, re-infarction, stroke, worsening heart failure or cardiogenic shock) after definitive MI treatment. ROC curves were used to compare ML performance against STOP-BANG, Killip-class, GRACE and LVEF, independently.
+Results
+There was an increasing proportion of cardiovascular events across the low-, intermediate- and high-OSA-risk groups (p=0.005). ML selected 7 accessible variables (i.e. Killip-class, leukocytes, GRACE score, CRP, oxygen saturation, STOP-BANG score and NT-proBNP) and their integration outperformed all comparators (AUC=0.83 [0.74, 0.90], p<0.01).
+Interpretation
+The integration of the STOP-BANG score into clinical evaluation (considering Killip-class, GRACE score and simple laboratory values) of subjects admitted for an acute MI through ML can significantly optimize the identification of patients who will present an in-hospital cardiovascular event.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of transcriptomic and metabolomic data reveals metabolic pathway alteration in mouse spermatogonia with the effect of copper exposure
+AU  - Lin, Shuai
+AU  - Qiao, Na
+AU  - Chen, Hanming
+AU  - Tang, Zhaoxin
+AU  - Han, Qingyue
+AU  - Mehmood, Khalid
+AU  - Fazlani, Sarfaraz Ali
+AU  - Hameed, Sajid
+AU  - Li, Ying
+AU  - Zhang, Hui
+JO  - Chemosphere
+VL  - 256
+SP  - 126974
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0045-6535
+DO  - https://doi.org/10.1016/j.chemosphere.2020.126974
+UR  - http://www.sciencedirect.com/science/article/pii/S004565352031167X
+KW  - Copper
+KW  - Metabolomic
+KW  - Mouse spermatogonia
+KW  - Toxicity
+KW  - Transcriptomic
+AB  - Copper is a widespread heavy metal in environment and has toxic effects when exposed. However, study of copper-induced male reproductive toxicity is still insufficient to report, and the underlying mechanisms are unknown. Keeping in view, RNA-Seq and metabolomic were performed to identify metabolic pathways that were distressed in mouse spermatogonia with the effect of copper sulfate, and the integrated analysis of the mechanism of copper administered GC-1 cells from metabolomic and transcriptomic data. Our results demonstrated that many genes and metabolites were regulated in the copper sulfate-treated cells. The differential metabolites analysis showed that 49 and 127 metabolites were significantly different in ESI+ and ESI- mode, respectively. Meanwhile, a total of 2813 genes were up-regulated and 2488 genes were down-regulated in the treatment groups compared to those in the control groups. Interestingly, ophthalmic acid and gamma glutamylleucine were markedly increased by copper treatment in two modes. By integrating with transcriptomic and metabolomic data, we revealed that 37 and 22 most related pathways were over-enriched in ESI+ and ESI- mode, respectively. Whereas, amino acid biosynthesis and metabolism play essential role in the potential relationship between DEGs and metabolites, which suggests that amino acid biosynthesis and metabolism may be the major metabolic pathways disturbed by copper in GC-1 cells. This study provides important clues and evidence for understanding the mechanisms responsible for copper-induced male spermatogenesis toxicity, and useful biomarkers indicative of copper exposure could be discovered from present study.
+ER  - 
+
+TY  - JOUR
+T1  - Data Integration for Large-Scale Models of Species Distributions
+AU  - Isaac, Nick J.B.
+AU  - Jarzyna, Marta A.
+AU  - Keil, Petr
+AU  - Dambly, Lea I.
+AU  - Boersch-Supan, Philipp H.
+AU  - Browning, Ella
+AU  - Freeman, Stephen N.
+AU  - Golding, Nick
+AU  - Guillera-Arroita, Gurutzeta
+AU  - Henrys, Peter A.
+AU  - Jarvis, Susan
+AU  - Lahoz-Monfort, José
+AU  - Pagel, Jörn
+AU  - Pescott, Oliver L.
+AU  - Schmucki, Reto
+AU  - Simmonds, Emily G.
+AU  - O’Hara, Robert B.
+JO  - Trends in Ecology & Evolution
+VL  - 35
+IS  - 1
+SP  - 56
+EP  - 67
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0169-5347
+DO  - https://doi.org/10.1016/j.tree.2019.08.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0169534719302551
+KW  - point process
+KW  - integrated distribution model
+KW  - state-space model
+KW  - citizen science
+KW  - occupancy model
+KW  - species distribution model
+AB  - With the expansion in the quantity and types of biodiversity data being collected, there is a need to find ways to combine these different sources to provide cohesive summaries of species’ potential and realized distributions in space and time. Recently, model-based data integration has emerged as a means to achieve this by combining datasets in ways that retain the strengths of each. We describe a flexible approach to data integration using point process models, which provide a convenient way to translate across ecological currencies. We highlight recent examples of large-scale ecological models based on data integration and outline the conceptual and technical challenges and opportunities that arise.
+ER  - 
+
+TY  - JOUR
+T1  - Unlocking the potential of plant phenotyping data through integration and data-driven approaches
+AU  - Coppens, Frederik
+AU  - Wuyts, Nathalie
+AU  - Inzé, Dirk
+AU  - Dhondt, Stijn
+JO  - Current Opinion in Systems Biology
+VL  - 4
+SP  - 58
+EP  - 63
+PY  - 2017
+DA  - 2017/08/01/
+T2  - Big data acquisition and analysis • Pharmacology and drug discovery
+SN  - 2452-3100
+DO  - https://doi.org/10.1016/j.coisb.2017.07.002
+UR  - http://www.sciencedirect.com/science/article/pii/S2452310017300069
+KW  - Plant phenotyping
+KW  - Data management
+KW  - Data integration
+KW  - Data-driven analysis
+AB  - Plant phenotyping has emerged as a comprehensive field of research as the result of significant advancements in the application of imaging sensors for high-throughput data collection. The flip side is the risk of drowning in the massive amounts of data generated by automated phenotyping systems. Currently, the major challenge lies in data management, on the level of data annotation and proper metadata collection, and in progressing towards synergism across data collection and analyses. Progress in data analyses includes efforts towards the integration of phenotypic and -omics data resources for bridging the phenotype–genotype gap and obtaining in-depth insights into fundamental plant processes.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of Tumor Genomic Data with Cell Lines Using Multi-dimensional Network Modules Improves Cancer Pharmacogenomics
+AU  - Webber, James T.
+AU  - Kaushik, Swati
+AU  - Bandyopadhyay, Sourav
+JO  - Cell Systems
+VL  - 7
+IS  - 5
+SP  - 526
+EP  - 536.e6
+PY  - 2018
+DA  - 2018/11/28/
+SN  - 2405-4712
+DO  - https://doi.org/10.1016/j.cels.2018.10.001
+UR  - http://www.sciencedirect.com/science/article/pii/S2405471218303910
+KW  - breast cancer
+KW  - pharmacogenomics
+KW  - data integration
+KW  - networks
+KW  - therapeutics
+KW  - biomarkers
+AB  - Summary
+Leveraging insights from genomic studies of patient tumors is limited by the discordance between these tumors and the cell line models used for functional studies. We integrate omics datasets using functional networks to identify gene modules reflecting variation between tumors and show that the structure of these modules can be evaluated in cell lines to discover clinically relevant biomarkers of therapeutic responses. Applied to breast cancer, we identify 219 gene modules that capture recurrent alterations and subtype patients and quantitate various cell types within the tumor microenvironment. Comparison of modules between tumors and cell lines reveals that many modules composed primarily of gene expression and methylation are poorly preserved. In contrast, preserved modules are highly predictive of drug responses in a manner that is robust and clinically relevant. This work addresses a fundamental challenge in pharmacogenomics that can only be overcome by the joint analysis of patient and cell line data.
+ER  - 
+
+TY  - JOUR
+T1  - A review of data centers as prosumers in district energy systems: Renewable energy integration and waste heat reuse for district heating
+AU  - Huang, Pei
+AU  - Copertaro, Benedetta
+AU  - Zhang, Xingxing
+AU  - Shen, Jingchun
+AU  - Löfgren, Isabelle
+AU  - Rönnelid, Mats
+AU  - Fahlen, Jan
+AU  - Andersson, Dan
+AU  - Svanfeldt, Mikael
+JO  - Applied Energy
+VL  - 258
+SP  - 114109
+PY  - 2020
+DA  - 2020/01/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2019.114109
+UR  - http://www.sciencedirect.com/science/article/pii/S0306261919317969
+KW  - Data center
+KW  - District energy system
+KW  - Renewable energy
+KW  - Waste heat recovery
+KW  - Energy efficiency
+AB  - As large energy prosumers in district energy systems, on the one hand, data centers consume a large amount of electricity to ensure the Information Technologies (IT) facilities, ancillary power supply and cooling systems work properly; on the other hand, data centers produce a large quantity of waste heat due to the high heat dissipation rates of the IT facilities. To date, a systematic review of data centers from the perspective of energy prosumers, which considers both integration of the upstream green energy supply and downstream waste heat reuse, is still lacking. As a result, the potentials for improving data centers’ performances are limited due to a lack of global optimization of the upstream renewable energy integration and downstream waste heat utilization. This study is intended to fill in this gap and provides such a review. In this regard, the advancements in different cooling techniques, integration of renewable energy and advanced controls, waste heat utilization and connections for district heating, real projects, performance metrics and economic, energy and environmental analyses are reviewed. Based on the enormous amount of research on data centers in district energy systems, it has been found that: (1) global controls, which can manage the upstream renewable production, data centers’ operation and waste heat generation and downstream waste heat utilization are still lacking; (2) regional climate studies represent an effective way to find the optimal integration of renewable energy and waste heat recovery technologies for improving the data centers’ energy efficiency; (3) the development of global energy metrics will help to appropriately quantify the data center performances.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating Mouse and Human Genetic Data to Move beyond GWAS and Identify Causal Genes in Cholesterol Metabolism
+AU  - Li, Zhonggang
+AU  - Votava, James A.
+AU  - Zajac, Gregory J.M.
+AU  - Nguyen, Jenny N.
+AU  - Leyva Jaimes, Fernanda B.
+AU  - Ly, Sophia M.
+AU  - Brinkman, Jacqueline A.
+AU  - De Giorgi, Marco
+AU  - Kaul, Sushma
+AU  - Green, Cara L.
+AU  - St. Clair, Samantha L.
+AU  - Belisle, Sabrina L.
+AU  - Rios, Julia M.
+AU  - Nelson, David W.
+AU  - Sorci-Thomas, Mary G.
+AU  - Lagor, William R.
+AU  - Lamming, Dudley W.
+AU  - Eric Yen, Chi-Liang
+AU  - Parks, Brian W.
+JO  - Cell Metabolism
+VL  - 31
+IS  - 4
+SP  - 741
+EP  - 754.e5
+PY  - 2020
+DA  - 2020/04/07/
+SN  - 1550-4131
+DO  - https://doi.org/10.1016/j.cmet.2020.02.015
+UR  - http://www.sciencedirect.com/science/article/pii/S1550413120300747
+KW  - GWAS
+KW  - human genetics
+KW  - co-expression networks
+KW  - computational biology
+KW  - plasma lipids
+KW  - cholesterol
+KW  - lipoproteins
+KW  - mouse genetics
+KW  - SREBP2
+KW  - Sestrin1
+AB  - Summary
+Identifying the causal gene(s) that connects genetic variation to a phenotype is a challenging problem in genome-wide association studies (GWASs). Here, we develop a systematic approach that integrates mouse liver co-expression networks with human lipid GWAS data to identify regulators of cholesterol and lipid metabolism. Through our approach, we identified 48 genes showing replication in mice and associated with plasma lipid traits in humans and six genes on the X chromosome. Among these 54 genes, 25 have no previously identified role in lipid metabolism. Based on functional studies and integration with additional human lipid GWAS datasets, we pinpoint Sestrin1 as a causal gene associated with plasma cholesterol levels in humans. Our validation studies demonstrate that Sestrin1 influences plasma cholesterol in multiple mouse models and regulates cholesterol biosynthesis. Our results highlight the power of combining mouse and human datasets for prioritization of human lipid GWAS loci and discovery of lipid genes.
+ER  - 
+
+TY  - JOUR
+T1  - Seq-ing answers: current data integration approaches to uncover mechanisms of transcriptional regulation
+AU  - Höllbacher, Barbara
+AU  - Balázs, Kinga
+AU  - Heinig, Matthias
+AU  - Henriette Uhlenhaut, N.
+JO  - Computational and Structural Biotechnology Journal
+PY  - 2020
+DA  - 2020/05/31/
+SN  - 2001-0370
+DO  - https://doi.org/10.1016/j.csbj.2020.05.018
+UR  - http://www.sciencedirect.com/science/article/pii/S2001037020302816
+KW  - ChIP-seq
+KW  - RNA-seq
+KW  - NGS
+KW  - data integration
+KW  - multi-omics
+KW  - transcriptional regulation
+AB  - Advancements in the field of next generation sequencing lead to the generation of ever-more data, with the challenge often being how to combine and reconcile results from different OMICs studies such as genome, epigenome and transcriptome. Here we provide an overview of the standard processing pipelines for ChIP-seq and RNA-seq as well as common downstream analyses. We describe popular multi-omics data integration approaches used to identify target genes and co-factors, and we discuss how machine learning techniques may predict transcriptional regulators and gene expression.
+ER  - 
+
+TY  - JOUR
+T1  - BIM And GIS Data Integration: A Novel Approach Of Technical/Environmental Decision-Making Process In Transport Infrastructure Design
+AU  - D’Amico, Fabrizio
+AU  - Calvi, Alessandro
+AU  - Schiattarella, Eleonora
+AU  - Prete, Mauro Di
+AU  - Veraldi, Valerio
+JO  - Transportation Research Procedia
+VL  - 45
+SP  - 803
+EP  - 810
+PY  - 2020
+DA  - 2020/01/01/
+T2  - Transport Infrastructure and systems in a changing world. Towards a more sustainable, reliable and smarter mobility.TIS Roma 2019 Conference Proceedings
+SN  - 2352-1465
+DO  - https://doi.org/10.1016/j.trpro.2020.02.090
+UR  - http://www.sciencedirect.com/science/article/pii/S235214652030140X
+KW  - BIM
+KW  - GIS
+KW  - Infrastructures
+KW  - Airport
+KW  - Environment
+KW  - Data Integration
+AB  - The European Directive 2014/24/EU and its recent Italian transposition law DM 560/2017 encourage an extensive use of BIM-based practices in transport infrastructure design. Therefore, a shift from the traditional design approach towards a shared and highly integrated model, capable of including the various design phases along with economic, operational and environmental concerns, is observed. In such a framework, this work evaluates the benefits returning from the integration between geospatially-referenced data and the BIM models for a more aware design approach. The major aim of this study is to underline the potential of an interoperable and shared model supplemented by GIS data, in minimizing or definitely removing the possible conflicts that typically arise between the infrastructure design and environmental constraints. Particularly, thanks to both the simultaneous assessment of each environmental component and the evaluation of the different project configurations, this methodology can provide an integrated technical/environmental overview of the design. As a result, it allows for immediately verifying the project to comply with the national minimum environmental criteria, which are mandatory for contractors according to the Italian environmental law n° 221/2015 and the new Italian Public Procurement Code. The proposed approach was finally tested on an airport infrastructure. Preliminary results have shown viability of the data management model for supporting designer’s choices in the various project phases, thereby proving this methodology to be worthy for implementation in infrastructure design procedures.
+ER  - 
+
+TY  - CHAP
+T1  - Metabolic Modeling and Omics Data Integration: A Systems Biology Approach to Food Science
+AU  - Marín de Mas, Igor
+AU  - de Leeuw, Marina
+AU  - Ghaffari, Pouyan
+AU  - Nielsen, Lars K.
+BT  - Reference Module in Food Science
+PB  - Elsevier
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 978-0-08-100596-5
+DO  - https://doi.org/10.1016/B978-0-08-100596-5.22914-4
+UR  - http://www.sciencedirect.com/science/article/pii/B9780081005965229144
+KW  - Omic data integration
+KW  - Metabolism
+KW  - Metabolic model
+KW  - Constraint-based modeling
+KW  - Kinetic modeling
+KW  - GEM
+KW  - Transcriptomic
+KW  - Proteomic
+KW  - Metabolomic
+KW  - Tracer-based metabolomics
+AB  - Over the past decades, advances in high-throughput technologies have fostered the development of novel model-driven methods, which are able to analyze the increasing amount of omic data and extract meaningful biological knowledge. These computational methods have proven to be a powerful tool to dissect the molecular mechanisms underlying observed phenomena in complex biological systems. This chapter summarizes different strategies to integrate multiple omic data types into the most widely used metabolic model-driven approaches: kinetic and constraint-based modeling. In addition, some of the most relevant applications of metabolic modeling in foodomics are presented and future aspects in this discipline are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling of furnace operation with a new adaptive data echo state network method integrating block recursive partial least squares
+AU  - Wang, Yongjian
+AU  - Li, Hongguang
+AU  - Yang, Bo
+JO  - Applied Thermal Engineering
+VL  - 171
+SP  - 115088
+PY  - 2020
+DA  - 2020/05/05/
+SN  - 1359-4311
+DO  - https://doi.org/10.1016/j.applthermaleng.2020.115088
+UR  - http://www.sciencedirect.com/science/article/pii/S1359431119357552
+KW  - Modelling
+KW  - Furnace operation
+KW  - Thermal efficiency
+KW  - Echo state networks
+KW  - Block recursive partial least squares
+KW  - Multicollinearity
+AB  - Thermal efficiency is an important index related to industrial furnace operation. Modeling of reheating furnace operation based on optimal thermal efficiency can greatly improve the actual furnace operation performance. However, some key variables in the complex chemical processes are very difficult to measure due to the nonlinearity, the disturbances, and the technological limitations, and the multicollinearity among several correlation variables will make the established model inaccurate. In this paper, a new adaptive data echo state network modeling method integrating block recursive partial least squares (BRPLS-ESN) is proposed. First, the Echo state network (ESN) is used to process the historical data, and the calculation of the weights are handled by partial least squares (PLS) instead of the least-squares, which will overcome the multicollinearity among certain variables. The block recursive method is also used during the weight calculation, which will help to reduce the computation time and occupied the memory of the proposed PLS based algorithm. The prediction results will be obtained lastly after multiple iterations. In order to verify the effectiveness of the proposed BRPLS-ESN method, an industrial reheating furnace is introduced to build an operational model using the proposed algorithm. The traditional ESN, the back-propagation network, and the support vector regression are also tested to compare with the proposed method, and the results show that the proposed BRPLS-ESN can obtain a better modeling effect.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of in vitro data from three dimensionally cultured HepaRG cells and physiologically based pharmacokinetic modeling for assessment of acetaminophen hepatotoxicity
+AU  - Zhang, Chi
+AU  - Zhang, Qiang
+AU  - Li, Jin
+AU  - Yu, Lin
+AU  - Li, Fengxiang
+AU  - Li, Weiwei
+AU  - Li, Yujie
+AU  - Peng, Hui
+AU  - Zhao, Jun
+AU  - Carmichael, Paul L.
+AU  - Wang, Yunfang
+AU  - Peng, Shuangqing
+AU  - Guo, Jiabin
+JO  - Regulatory Toxicology and Pharmacology
+VL  - 114
+SP  - 104661
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0273-2300
+DO  - https://doi.org/10.1016/j.yrtph.2020.104661
+UR  - http://www.sciencedirect.com/science/article/pii/S0273230020300878
+KW  - Hepatotoxicity
+KW  - Acetaminophen (APAP)
+KW  - Three-dimensional (3D)
+KW  - PBPK modeling
+KW  - Mitochondrial injury
+AB  - Selection of appropriate fit-for-purpose in vitro and in silico models is critical for non-animal safety assessment of chemical-induced hepatoxicity. The present study evaluated the feasibility of integrating in vitro data from three-dimensionally (3D)-cultured HepaRG cells and physiologically based pharmacokinetic (PBPK) modeling to predict chemical-induced liver toxicity. A 3D organoid culture system was established using an ultralow attachment method. HepaRG cells cultured in a two-dimensional (2D) monolayer and under 3D conditions were exposed to acetaminophen (APAP) at concentrations of 0.16–20 mM. The results showed that the viability of both 3D- and 2D cultured cells was significantly decreased by APAP in a concentration-dependent manner. Furthermore, 3D cultures were more sensitive to APAP-induced mitochondrial damage than 2D cultures were, based on measurements of mitochondrial superoxide accumulation and mitochondrial membrane potential loss. PBPK simulations using nominal in vitro concentrations showed that the APAP concentration eliciting mitochondrial damage was closer to the predicted peak liver concentration in humans in 3D cultures than it was in 2D cultures. In summary, our results suggest that combining in vitro data from 3D HepaRG cultures and PBPK modeling provides a promising tool for assessment of liver injury.
+ER  - 
+
+TY  - JOUR
+T1  - Logical foundations of information disclosure in ontology-based data integration
+AU  - Benedikt, Michael
+AU  - Cuenca Grau, Bernardo
+AU  - Kostylev, Egor V.
+JO  - Artificial Intelligence
+VL  - 262
+SP  - 52
+EP  - 95
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0004-3702
+DO  - https://doi.org/10.1016/j.artint.2018.06.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0004370218303060
+KW  - Knowledge representation and reasoning
+KW  - Ontologies
+KW  - Ontology-based data access
+KW  - Data integration
+KW  - Query answering
+KW  - Data privacy
+AB  - Ontology-based data integration systems allow users to effectively access data sitting in multiple sources by means of queries over a global schema described by an ontology. In practice, data sources often contain sensitive information that the data owners want to keep inaccessible to users. Our aim in this paper is to lay the logical foundations of information disclosure in ontology-based data integration. Our focus is on the semantic requirements that a data integration system should satisfy before it is made available to users for querying, as well as on the computational complexity of checking whether such requirements are fulfilled. In particular, we formalise and study the problem of determining whether a given data integration system discloses a source query to an attacker. We consider disclosure on a particular dataset, and also whether a schema admits a dataset on which disclosure occurs. We provide matching lower and upper complexity bounds on disclosure analysis, in the process introducing a number of techniques for analysing logical privacy issues in ontology-based data integration.
+ER  - 
+
+TY  - JOUR
+T1  - Reconstructing the mechanical parameters of a transversely-isotropic rock based on log and incomplete core data integration
+AU  - Wojtowicz, Michał
+AU  - Jarosiński, Marek
+JO  - International Journal of Rock Mechanics and Mining Sciences
+VL  - 115
+SP  - 111
+EP  - 120
+PY  - 2019
+DA  - 2019/03/01/
+SN  - 1365-1609
+DO  - https://doi.org/10.1016/j.ijrmms.2019.01.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1365160918305896
+KW  - Transversely isotropic
+KW  - Stiffness tensor
+KW  - Core-log integration
+KW  - Triaxial core test
+KW  - Ultrasonic core measurement
+KW  - Baltic Basin
+AB  - In this paper we present a method to integrate core-log data when a full set of good quality velocity measurements on core samples is not available. We used some simple and justified assumption along with additional information that came from static triaxial tests. Large number of used core data significantly reduces uncertainty of obtained results. We started from evaluating five components of the stiffness tensor, and then calculated the static and dynamic moduli and Thomsen's parameters. The proposed method is based on data from three wells located in the Early Paleozoic Baltic Basin in Poland. The parameters were calculated based on data from one reference well-denoted in this paper as A-1. For this well, around 300 m of core was retrieved from the lower Silurian and Ordovician interval and a significant number of tests were performed on core samples. Results were then validated for the next two wells denoted as B-1 and C-1. The obtained model fits quite well with core data, which shows that chosen method proved to be efficient.
+ER  - 
